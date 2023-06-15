@@ -1,0 +1,715 @@
+#EXTM3U
+#EXTINF:-1, tvg-logo=CCTV1.png tvg-name=CCTV1 group-title=,CCTV1
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
+#EXTINF:-1, tvg-logo=CCTV2.png tvg-name=CCTV2 group-title=,CCTV2
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+#EXTINF:-1, tvg-logo=CCTV3.png tvg-name=CCTV3 group-title=,CCTV3
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
+#EXTINF:-1, tvg-logo=CCTV4.png tvg-name=CCTV4 group-title=,CCTV4
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8
+#EXTINF:-1, tvg-logo=CCTV5.png tvg-name=CCTV5 group-title=,CCTV5
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+#EXTINF:-1, tvg-logo=CCTV6.png tvg-name=CCTV6 group-title=,CCTV6
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
+#EXTINF:-1, tvg-logo=CCTV7.png tvg-name=CCTV7 group-title=,CCTV7
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+#EXTINF:-1, tvg-logo=CCTV8.png tvg-name=CCTV8 group-title=,CCTV8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
+#EXTINF:-1, tvg-logo=CCTV9.png tvg-name=CCTV9 group-title=,CCTV9
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+#EXTINF:-1, tvg-logo=CCTV10.png tvg-name=CCTV10 group-title=,CCTV10
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+#EXTINF:-1, tvg-logo=CCTV11.png tvg-name=CCTV11 group-title=,CCTV11
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
+#EXTINF:-1, tvg-logo=CCTV12.png tvg-name=CCTV12 group-title=,CCTV12
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
+#EXTINF:-1, tvg-logo=CCTV13.png tvg-name=CCTV13 group-title=,CCTV13
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+#EXTINF:-1, tvg-logo=CCTV14.png tvg-name=CCTV14 group-title=,CCTV14
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+#EXTINF:-1, tvg-logo=CCTV15.png tvg-name=CCTV15 group-title=,CCTV15
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
+#EXTINF:-1, tvg-logo=CCTV16.png tvg-name=CCTV16 group-title=,CCTV16
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+#EXTINF:-1, tvg-logo=CCTV17.png tvg-name=CCTV17 group-title=,CCTV17
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
+#EXTINF:-1, tvg-logo=CCTV5+.png tvg-name=CCTV5+ group-title=,CCTV5+
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
+
+
+
+#EXTINF:-1, tvg-logo=CCTV电视指南.png tvg-name=CCTV电视指南 group-title=,CCTV电视指南
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226987/index.m3u8
+#EXTINF:-1,tvg-logo=凤凰中文.png tvg-name=凤凰中文 group-title=,凤凰中文
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226547/index.m3u8
+#EXTINF:-1,tvg-logo=凤凰资讯.png tvg-name=凤凰资讯 group-title=,凤凰资讯
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226546/index.m3u8
+
+
+
+#EXTINF:-1, tvg-logo=陕西2.png tvg-name=陕西2（都市青春频道） group-title=,陕西2（都市青春频道）
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226358/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, tvg-logo=江苏卫视.png tvg-name=江苏卫视 group-title=,江苏卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
+#EXTINF:-1, tvg-logo=湖南卫视.png tvg-name=湖南卫视 group-title=,湖南卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8
+#EXTINF:-1, tvg-logo=北京卫视.png tvg-name=北京卫视 group-title=,北京卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
+#EXTINF:-1, tvg-logo=东方卫视.png tvg-name=东方卫视 group-title=,东方卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8
+#EXTINF:-1, tvg-logo=安徽卫视.png tvg-name=安徽卫视 group-title=,安徽卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226203/index.m3u8
+#EXTINF:-1, tvg-logo=浙江卫视.png tvg-name=浙江卫视 group-title=,浙江卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
+#EXTINF:-1, tvg-logo=深圳卫视.png tvg-name=深圳卫视 group-title=,深圳卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
+
+#EXTINF:-1, tvg-logo=天津卫视.png tvg-name=天津卫视 group-title=,天津卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8
+#EXTINF:-1, tvg-logo=广东卫视.png tvg-name=广东卫视 group-title=,广东卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8
+
+#EXTINF:-1, tvg-logo=江西卫视.png tvg-name=江西卫视 group-title=,江西卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225764/index.m3u8
+#EXTINF:-1, tvg-logo=山东卫视.png tvg-name=山东卫视 group-title=,山东卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
+
+#EXTINF:-1, tvg-logo=四川卫视.png tvg-name=四川卫视 group-title=,四川卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225768/index.m3u8
+#EXTINF:-1, tvg-logo=湖北卫视.png tvg-name=湖北卫视 group-title=,湖北卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8
+#EXTINF:-1, tvg-logo=重庆卫视.png tvg-name=重庆卫视 group-title=,重庆卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8
+#EXTINF:-1, tvg-logo=黑龙江卫视.png tvg-name=黑龙江卫视 group-title=,黑龙江卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8
+#EXTINF:-1, tvg-logo=辽宁卫视.png tvg-name=辽宁卫视 group-title=,辽宁卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226201/index.m3u8
+
+
+
+
+
+#EXTINF:-1, tvg-logo=CCTV风云音乐.png tvg-name=CCTV风云音乐 group-title=,CCTV风云音乐
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
+#EXTINF:-1, tvg-logo=CCTV怀旧剧场.png tvg-name=CCTV怀旧剧场 group-title=,CCTV怀旧剧场
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
+#EXTINF:-1, tvg-logo=CCTV第一剧场.png tvg-name=CCTV第一剧场 group-title=,CCTV第一剧场
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
+#EXTINF:-1, tvg-logo=CCTV风云剧场.png tvg-name=CCTV风云剧场 group-title=,CCTV风云剧场
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
+#EXTINF:-1, tvg-logo=CCTV兵器科技.png tvg-name=CCTV兵器科技 group-title=,CCTV兵器科技
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
+
+
+
+
+#EXTINF:-1,tvg-logo=CHC动作电影.png tvg-name=CHC动作电影 group-title=,CHC动作电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+
+#EXTINF:-1,tvg-logo=CHC家庭电影.png tvg-name=CHC家庭电影 group-title=,CHC家庭电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+
+#EXTINF:-1,tvg-logo=CHC高清电影.png tvg-name=CHC高清电影 group-title=,CHC高清电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+
+
+
+#EXTINF:-1,tvg-logo=精彩综艺.png tvg-name=精彩综艺 group-title=,精彩综艺
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,tvg-logo=欢笑剧场4K.png tvg-name=欢笑剧场4K group-title=,欢笑剧场4K
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
+
+
+
+#EXTINF:-1,tvg-logo=SiTV都市剧场.png tvg-name=SiTV都市剧场 group-title=,SiTV都市剧场
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8
+
+
+
+
+
+#EXTINF:-1, 未知电视台（1080P-2M）
+http://118.122.78.172:89/live1/live1.m3u8
+
+
+
+
+#EXTINF:-1,tvg-logo=北京卡酷少儿.png tvg-name=北京卡酷少儿 group-title=,北京卡酷少儿（标清）
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
+#EXTINF:-1,tvg-logo=浙江少儿.png tvg-name=浙江少儿 group-title=,浙江少儿 1080A
+http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1,tvg-logo=南京少儿.png tvg-name=南京少儿 group-title=,南京少儿 720A
+http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
+
+#EXTINF:-1, tvg-logo=哈哈炫动.png tvg-name=哈哈炫动（标清） group-title=,哈哈炫动（标清）
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
+#EXTINF:-1, tvg-logo=嘉佳卡通.png tvg-name=嘉佳卡通（标清） group-title=,嘉佳卡通（标清）
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
+#EXTINF:-1, tvg-logo=江苏优漫卡通.png tvg-name=江苏优漫卡通（标清） group-title=,江苏优漫卡通（标清）
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8
+#EXTINF:-1, tvg-logo=湖南金鹰卡通.png tvg-name=湖南金鹰卡通（标清） group-title=,湖南金鹰卡通（标清）
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8
+
+
+#EXTINF:-1, tvg-logo=CCTV央视台球.png tvg-name=CCTV央视台球 group-title=,CCTV央视台球
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
+#EXTINF:-1,tvg-logo=CCTV女性时尚.png tvg-name=CCTV女性时尚 group-title=,CCTV女性时尚
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
+
+
+
+
+#EXTINF:-1, tvg-logo=CCTV央视文化精品.png tvg-name=CCTV央视文化精品 group-title=,CCTV央视文化精品
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
+#EXTINF:-1, tvg-logo=CCTV世界地理.png tvg-name=CCTV世界地理 group-title=,CCTV世界地理
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
+
+#EXTINF:-1,tvg-logo=乐游.png tvg-name=乐游 group-title=,乐游
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226580/index.m3u8
+
+#EXTINF:-1, tvg-logo=苏州4K.png tvg-name=苏州4K group-title=,苏州4K（4K分辨率）
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#EXTINF:-1, tvg-logo=金鹰纪实.png tvg-name=金鹰纪实 group-title=,金鹰纪实
+http://111.20.105.60:6060/yinhe/2/ch00000090990000001699/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+
+
+
+
+#EXTINF:-1,tvg-logo=开化国家公园.png tvg-name=开化国家公园 group-title=,开化国家公园 720B
+http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, tvg-logo=陕西卫视.png tvg-name=陕西卫视 group-title=,陕西卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225821/index.m3u8
+
+#EXTINF:-1, tvg-logo=陕西1.png tvg-name=陕西1（新闻资讯频道） group-title=,陕西1（新闻资讯频道）
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226357/index.m3u8
+
+#EXTINF:-1, tvg-logo=陕西2.png tvg-name=陕西2（都市青春频道） group-title=,陕西2（都市青春频道）
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226358/index.m3u8
+
+#EXTINF:-1, tvg-logo=陕西4.png tvg-name=陕西4（影视频道） group-title=,陕西4（影视频道）
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226360/index.m3u8
+
+#EXTINF:-1, tvg-logo=陕西8.png tvg-name=陕西8（西部电影频道） group-title=,陕西8（西部电影频道）
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226364/index.m3u8
+
+#EXTINF:-1,tvg-logo=西安1.png tvg-name=西安1（新闻综合频道） group-title=,西安1（新闻综合频道）
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226366/index.m3u8
+
+
+#EXTINF:-1,tvg-logo=宝鸡1.png tvg-name=宝鸡1 group-title=,宝鸡1 7M1080
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226383/index.m3u8
+#EXTINF:-1,tvg-logo=宝鸡2.png tvg-name=宝鸡2 group-title=,宝鸡2 7M1080
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226384/index.m3u8
+#EXTINF:-1,tvg-logo=佛坪.png tvg-name=佛坪 group-title=,佛坪 4M1080
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226454/index.m3u8
+#EXTINF:-1,tvg-logo=千阳.png tvg-name=千阳 group-title=,千阳 8M1080
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226945/index.m3u8
+#EXTINF:-1,tvg-logo=商洛.png tvg-name=商洛 group-title=,商洛1 2M1080
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226378/index.m3u8
+#EXTINF:-1,tvg-logo=城固.png tvg-name=城固 group-title=,城固 8M1080
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226920/index.m3u8
+#EXTINF:-1,tvg-logo=宁强1.png tvg-name=宁强1 group-title=,宁强1 2M1080
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226390/index.m3u8
+#EXTINF:-1,tvg-logo=宁强2.png tvg-name=宁强2 group-title=,宁强2 2M1080
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226389/index.m3u8
+#EXTINF:-1,tvg-logo=安康.png tvg-name=安康 group-title=,安康 7M1080
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226385/index.m3u8
+
+
+
+#EXTINF:-1,tvg-logo=镇巴电视台.png tvg-name=镇巴电视台 group-title=,镇巴电视台 2M1080
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226457/index.m3u8
+#EXTINF:-1,tvg-logo=汉中1.png tvg-name=汉中1 group-title=,汉中1 2M1080
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226331/index.m3u8
+#EXTINF:-1,tvg-logo=汉中2.png tvg-name=汉中2 group-title=,汉中2 2M1080
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225990/index.m3u8
+#EXTINF:-1,tvg-logo=汉中3.png tvg-name=汉中3 group-title=,汉中3 2M1080
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225991/index.m3u8
+#EXTINF:-1,tvg-logo=留坝.png tvg-name=留坝 group-title=,留坝 2M1080
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226000/index.m3u8
+#EXTINF:-1,tvg-logo=西乡.png tvg-name=西乡 group-title=,西乡 3.5M1080
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226556/index.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,tvg-logo=上海生活.png tvg-name=上海生活 group-title=,上海生活 1080A
+http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
+
+
+
+
+#EXTINF:-1, tvg-logo=南宁影视娱乐.png tvg-name=南宁影视娱乐 group-title=,南宁影视娱乐
+http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
+
+#EXTINF:-1, tvg-logo=浙江教科影视.png tvg-name=浙江教科影视 group-title=,浙江教科影视（浙江源）
+http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+
+
+
+
+#EXTINF:-1,tvg-logo=庆阳公共频道.png tvg-name=庆阳公共频道 group-title=,庆阳公共频道
+http://stream.gsqytv.com.cn/ggpd/sd/live.m3u8
+#EXTINF:-1,tvg-logo=石屏综合.png tvg-name=石屏综合 group-title=,石屏综合 1080A
+http://live.ynurl.com/video/s10059-SPTV/index.m3u8
+
+
+#EXTINF:-1,tvg-logo=鹿泉一套.png tvg-name=鹿泉一套 group-title=,鹿泉一套
+https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8
+#EXTINF:-1,tvg-logo=鹿泉二套.png tvg-name=鹿泉二套 group-title=,鹿泉二套
+https://jwliveqxzb.hebyun.com.cn/luquaner/luquaner.m3u8
+
+
+
+
+
+
+#EXTINF:-1,tvg-logo=白银综合频道.png tvg-name=白银综合频道 group-title=,白银综合频道
+http://live.bygd.cn/byzh/sd/live.m3u8
+
+#EXTINF:-1,tvg-logo=长子综合频道.png tvg-name=长子综合频道 group-title=,长子综合频道 1080A
+http://zzlive.zzc-media.com:8092/live/xwzh.m3u8
+
+
+
+
+
+
+#EXTINF:-1,tvg-logo=淮南新闻综合.png tvg-name=淮南新闻综合 group-title=,淮南新闻综合
+http://stream.0554news.com/hnds1/sd/live.m3u8
+
+
+
+
+#EXTINF:-1,tvg-logo=汶川新闻综合.png tvg-name=汶川新闻综合 group-title=,汶川新闻综合 1080A
+http://live.iwcmt.cn:90/live/zhxw.m3u8
+
+#EXTINF:-1,tvg-logo=陇川综合.png tvg-name=陇川综合 group-title=,陇川综合 1080A
+http://live.ynurl.com/video/s10027-LCDST/index.m3u8
+
+#EXTINF:-1,tvg-logo=新昌新闻综合.png tvg-name=新昌新闻综合 group-title=,新昌新闻综合 1080A
+http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
+
+#EXTINF:-1,tvg-logo=余杭综合.png tvg-name=余杭综合 group-title=,余杭综合 1080A
+http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
+
+
+
+#EXTINF:-1,tvg-logo=白银公共频道.png tvg-name=白银公共频道 group-title=,白银公共频道 1080A
+http://live.bygd.cn/bygg/sd/live.m3u8
+#EXTINF:-1, tvg-logo=石狮综合.png tvg-name=石狮综合 group-title=,福建-石狮综合
+http://218.106.152.196/lsdream/MO13IYx/2000/live.m3u8
+
+#EXTINF:-1,tvg-logo=庆阳综合频道.png tvg-name=庆阳综合频道 group-title=,甘肃-庆阳综合频道
+http://stream.gsqytv.com.cn/xwzh/sd/live.m3u8
+
+#EXTINF:-1,tvg-logo=酒泉综合频道.png tvg-name=酒泉综合频道 group-title=,甘肃-酒泉综合频道
+http://stream.gsjqtv.com/pd1/sd/live.m3u8
+
+
+
+
+#EXTINF:-1,tvg-logo=大厂县一套.png tvg-name=大厂县一套 group-title=,河北-大厂县一套
+http://60.10.185.184:1935/live/dc1.stream/playlist.m3u8
+#EXTINF:-1,tvg-logo=清河新闻综合.png tvg-name=清河新闻综合 group-title=,河北-清河新闻综合
+https://jwcdnqx.hebyun.com.cn/live/qinghe/1500k/tzwj_video.m3u8
+
+
+
+#EXTINF:-1,tvg-logo=黄山新闻综合.png tvg-name=黄山新闻综合 group-title=,安徽-黄山新闻综合
+http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8
+
+
+
+#EXTINF:-1,tvg-logo=浙江国际.png tvg-name=浙江国际 group-title=,浙江国际 1080A
+http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
+
+
+
+
+
+#EXTINF:-1,tvg-logo=浙江经济生活.png tvg-name=浙江经济生活 group-title=,浙江经济生活 1080A
+http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+
+#EXTINF:-1,tvg-logo=庆元综合.png tvg-name=庆元综合 group-title=,庆元综合 720A
+http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
+
+
+
+#EXTINF:-1,tvg-logo=朝天新闻综合.png tvg-name=朝天新闻综合 group-title=,朝天新闻综合 528A
+https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
+
+#EXTINF:-1,tvg-logo=龙游生活娱乐.png tvg-name=龙游生活娱乐 group-title=,龙游生活娱乐 720A
+http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
+
+
+#EXTINF:-1,tvg-logo=日照科教频道.png tvg-name=日照科教频道合 group-title=,日照科教频道 720A
+http://live.rzw.com.cn/ggpd/sd/live.m3u8
+
+#EXTINF:-1,tvg-logo=旺苍新闻综合.png tvg-name=旺苍新闻综合 group-title=,旺苍新闻综合 528A
+https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel9/playlist.m3u8
+
+#EXTINF:-1,tvg-logo=萧山综合.png tvg-name=萧山综合 group-title=,萧山综合 720A
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+
+#EXTINF:-1,tvg-logo=开化新闻综合.png tvg-name=开化新闻综合 group-title=,开化新闻综合 720A
+http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8
+
+#EXTINF:-1,tvg-logo=蓬安新闻综合.png tvg-name=蓬安新闻综合 group-title=,蓬安新闻综合 720A
+http://palive.patv123.com:8091/live/xwpd_800K.m3u8
+
+#EXTINF:-1,tvg-logo=白银综合频道.png tvg-name=白银综合频道 group-title=,白银综合频道 1080A
+http://live.bygd.cn/byzh/sd/live.m3u8
+
+
+#EXTINF:-1,tvg-logo=仁寿综合频道.png tvg-name=仁寿综合频道 group-title=,仁寿综合频道 1080A
+http://play.scrstv.com/TV/xwzh.m3u8
+
+#EXTINF:-1,tvg-logo=石景山电视台.png tvg-name=石景山电视台 group-title=,石景山电视台 1080A
+http://live.sjsrm.com/bjsjs/sd/live.m3u8
+
+
+
+
+#EXTINF:-1,tvg-logo=靖江新闻综合.png tvg-name=靖江新闻综合 group-title=,靖江新闻综合 720A
+http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8
+
+
+
+#EXTINF:-1,tvg-logo=马尔康综合频道.png tvg-name=马尔康综合频道 group-title=,马尔康综合频道 1080A
+http://live.zmmek.com:90/live/zhxw.m3u8
+
+
+
+#EXTINF:-1,tvg-logo=酒泉综合频道.png tvg-name=酒泉综合频道 group-title=,酒泉综合频道 1080A
+http://stream.gsjqtv.com/pd1/sd/live.m3u8
+
+#EXTINF:-1,tvg-logo=云和新闻综合.png tvg-name=云和新闻综合 group-title=,云和新闻综合 720A
+http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
+
+
+
+#EXTINF:-1,tvg-logo=淮南公共频道.png tvg-name=淮南公共频道 group-title=,淮南公共频道 1080A
+http://stream.0554news.com/hnds2/sd/live.m3u8
+#EXTINF:-1,tvg-logo=淮南新闻综合.png tvg-name=淮南新闻综合 group-title=,淮南新闻综合 1080A
+http://stream.0554news.com/hnds1/sd/live.m3u8
+#EXTINF:-1,tvg-logo=仁寿综合频道.png tvg-name=仁寿综合频道 group-title=,仁寿综合频道 1080A
+http://play.scrstv.com/TV/xwzh.m3u8
+
+
+
+
+#EXTINF:-1,tvg-logo=浙江教科影视.png tvg-name=浙江教科影视 group-title=,浙江教科影视 1080A
+http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1,tvg-logo=浙江钱江.png tvg-name=浙江钱江 group-title=,浙江钱江 1080A
+http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
+
+#EXTINF:-1,tvg-logo=苍南新闻综合.png tvg-name=苍南新闻综合 group-title=,苍南新闻综合 1080A
+http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
+
+
+#EXTINF:-1,tvg-logo=房山电视台.png tvg-name=房山电视台 group-title=,房山电视台 720A
+https://live.funhillrm.com/2/playlist.m3u8
+
+#EXTINF:-1,tvg-logo=景县综合.png tvg-name=景县综合 group-title=,景县综合 360A
+http://hbjx.chinashadt.com:1935/live/stream:jx1.stream_360p/chunklist_w1092008512.m3u8
+
+#EXTINF:-1,tvg-logo=略阳综合频道.png tvg-name=略阳综合频道 group-title=,略阳综合频道 576A
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226322/1.m3u8
+
+#EXTINF:-1,tvg-logo=普陀新闻综合.png tvg-name=普陀新闻综合 group-title=,普陀新闻综合 720A
+http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
+
+
+#EXTINF:-1,tvg-logo=上虞1新闻综合.png tvg-name=上虞1新闻综合 group-title=,上虞1新闻综合 720A
+http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
+#EXTINF:-1,tvg-logo=上虞3新商都.png tvg-name=上虞3新商都 group-title=,上虞3新商都 720A
+http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
+#EXTINF:-1,tvg-logo=上虞经济文化.png tvg-name=上虞经济文化 group-title=,上虞经济文化 720A
+http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
+
+#EXTINF:-1,tvg-logo=嵊州综合.png tvg-name=嵊州综合 group-title=,嵊州综合 720A
+http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+
+
+#EXTINF:-1,tvg-logo=文成综合.png tvg-name=文成综合 group-title=,文成综合 720A
+http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
+
+
+
+
+
+#EXTINF:-1,tvg-logo=龙泉.png tvg-name=龙泉 group-title=,龙泉 1080A
+http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1,tvg-logo=万源新闻综合.png tvg-name=万源新闻综合 group-title=,万源新闻综合 1080A
+http://live.wanyuannews.com/wytv/hd/live.m3u8
+
+
+
+#EXTINF:-1,tvg-logo=永嘉新闻综合.png tvg-name=永嘉新闻综合 group-title=,永嘉新闻综合 1080A
+http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8
+#EXTINF:-1,tvg-logo=余杭未来.png tvg-name=余杭未来 group-title=,余杭未来 1080A
+http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
+
+#EXTINF:-1,tvg-logo=浙江6民生休闲.png tvg-name=浙江6民生休闲 group-title=,浙江6民生休闲 1080A
+http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
+#EXTINF:-1,tvg-logo=浙江新闻.png tvg-name=浙江新闻 group-title=,浙江新闻 1080A
+http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
+
+#EXTINF:-1,tvg-logo=镇巴综合频道.png tvg-name=镇巴综合频道 group-title=,镇巴综合频道 1080A
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226457/1.m3u8
+
+#EXTINF:-1,tvg-logo=昌宁电视台.png tvg-name=昌宁电视台 group-title=,昌宁电视台 1080A
+http://live.ynurl.com/video/s10047-cntv/index.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1,tvg-logo=剑阁新闻综合.png tvg-name=剑阁新闻综合 group-title=,剑阁新闻综合 528A
+https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel10/playlist.m3u8
+
+#EXTINF:-1,tvg-logo=铜山综合频道.png tvg-name=铜山综合频道 group-title=,铜山综合频道 720A
+http://stream.tstvxmt.com/tstv1/sd/live.m3u8
+
+
+
+#EXTINF:-1,tvg-logo=马关电视台.png tvg-name=马关电视台 group-title=,马关电视台 1080B
+http://live.ynurl.com/video/s10046-001/index.m3u8
+#EXTINF:-1,tvg-logo=芒市综合.png tvg-name=芒市综合 group-title=,芒市综合 1080B
+http://live.ynurl.com/video/s10001-mstv1/index.m3u8
+
+#EXTINF:-1,tvg-logo=广元公共频道.png tvg-name=广元公共频道 group-title=,广元公共频道 720A
+https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel2/playlist.m3u8
+
+
+
+#EXTINF:-1,tvg-logo=延安新闻综合.png tvg-name=延安新闻综合 group-title=,延安新闻综合 3M1080
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226374/index.m3u8
+#EXTINF:-1,tvg-logo=延安公共.png tvg-name=延安公共 group-title=,延安公共 3M1080
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226375/index.m3u8
+#EXTINF:-1,tvg-logo=洋县.png tvg-name=洋县 group-title=,洋县 1080
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226938/index.m3u8
+#EXTINF:-1,tvg-logo=勉县综合.png tvg-name=勉县综合 group-title=,勉县综合 12M576
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226952/index.m3u8
+#EXTINF:-1,tvg-logo=咸阳.png tvg-name=咸阳 group-title=,咸阳1 576
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226372/index.m3u8
+#EXTINF:-1,tvg-logo=榆林.png tvg-name=榆林 group-title=,榆林1 576
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226377/index.m3u8
+#EXTINF:-1,tvg-logo=渭南.png tvg-name=渭南 group-title=,渭南 4M576
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226376/index.m3u8
+#EXTINF:-1,tvg-logo=略阳.png tvg-name=略阳 group-title=,略阳1 576
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226322/index.m3u8
+#EXTINF:-1,tvg-logo=铜川1.png tvg-name=铜川1 group-title=,铜川1 576
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226379/index.m3u8
+#EXTINF:-1,tvg-logo=铜川2.png tvg-name=铜川2 group-title=,铜川2 576
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226380/index.m3u8
+#EXTINF:-1,tvg-logo=安塞综合频道.png tvg-name=安塞综合频道 group-title=,安塞综合频道
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226388/1.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,tvg-logo=南京教科.png tvg-name=南京教科 group-title=,南京教科 720A
+http://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8
+
+#EXTINF:-1,tvg-logo=南京生活.png tvg-name=南京生活 group-title=,南京生活 720A
+http://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8
+#EXTINF:-1,tvg-logo=南京十八.png tvg-name=南京十八 group-title=,南京十八 720A
+http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
+#EXTINF:-1,tvg-logo=南京新闻综合.png tvg-name=南京新闻综合 group-title=,南京新闻综合 720A
+http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
+#EXTINF:-1,tvg-logo=南京信息.png tvg-name=南京信息 group-title=,南京信息 720A
+http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
+
+#EXTINF:-1,tvg-logo=余姚新闻综合.png tvg-name=余姚新闻综合 group-title=,余姚新闻综合 576A
+http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
+#EXTINF:-1,tvg-logo=岳阳公共.png tvg-name=岳阳公共 group-title=,岳阳公共 576A
+http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
+
+
+
+
+#EXTINF:-1,tvg-logo=洞头综合.png tvg-name=洞头综合 group-title=,洞头综合 540A
+http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8
+#EXTINF:-1,tvg-logo=房山无线频道.png tvg-name=房山无线频道 group-title=,房山无线频道 720A
+http://live.funhillrm.com/2/sd/live.m3u8
+
+#EXTINF:-1,tvg-logo=吉林都市.png tvg-name=吉林都市 group-title=,吉林都市 900A
+http://stream1.jlntv.cn/dspd/sd/live.m3u8
+
+
+
+
+#EXTINF:-1,tvg-logo=缙云综合.png tvg-name=缙云综合 group-title=,缙云综合 720A
+http://l.cztvcloud.com:80/channels/lantian/SXjinyun1/720p.m3u8
+
+#EXTINF:-1,tvg-logo=灵宝新闻综合.png tvg-name=灵宝新闻综合 group-title=,灵宝新闻综合 480A
+http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8
+#EXTINF:-1,tvg-logo=龙岩综合.png tvg-name=龙岩综合 group-title=,龙岩综合 540A
+http://stream.lytv.net.cn/2/sd/live.m3u8
+
+#EXTINF:-1,tvg-logo=龙游新闻综合.png tvg-name=龙游新闻综合 group-title=,龙游新闻综合 720A
+http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
+
+#EXTINF:-1,tvg-logo=梅河口综合.png tvg-name=梅河口综合 group-title=,梅河口综合 576A
+http://stream4.jlntv.cn/mhk/sd/live.m3u8
+
+
+
+
+
+#EXTINF:-1,tvg-logo=兰溪新闻综合.png tvg-name=兰溪新闻综合 group-title=,兰溪新闻综合 720B
+http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
+
+
+#EXTINF:-1,tvg-logo=北碚综合频道.png tvg-name=北碚综合频道 group-title=,北碚综合频道 576B
+http://222.178.181.121:12034/beibei01.m3u8
+
+#EXTINF:-1,tvg-logo=东营科教频道.png tvg-name=东营科教频道 group-title=,东营科教频道 576B
+http://stream.hhek.cn/dyjy/sd/live.m3u8
+
+#EXTINF:-1,tvg-logo=河北都市.png tvg-name=河北都市 group-title=,河北都市 576B
+https://jwplay.hebyun.com.cn/live/hbdstv/1500k/tzwj_video.m3u8
+
+#EXTINF:-1,tvg-logo=青田电视台.png tvg-name=青田电视台 group-title=,青田电视台 1080B
+http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
+
+#EXTINF:-1,tvg-logo=京视剧场.png tvg-name=京视剧场 group-title=,京视剧场 576B
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8
+
+
+#EXTINF:-1,tvg-logo=河源综合.png tvg-name=河源综合 group-title=,河源综合 1080A
+http://live.hyxrmt.com:85/live/xwpd.m3u8
+
+
+#EXTINF:-1,tvg-logo=河源公共.png tvg-name=河源公共 group-title=,河源公共 540A
+http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+#EXTINF:-1,tvg-logo=河源综合.png tvg-name=河源综合 group-title=,河源综合 540A
+http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+
+
+
+
+
+#EXTINF:-1, tvg-logo=（山东）日照新闻综合.png tvg-name=（山东）日照新闻综合 group-title=,（山东）日照新闻综合
+http://live.rzw.com.cn/xwzh/sd/live.m3u8
+
+
+
+#EXTINF:-1,tvg-logo=遂昌综合.png tvg-name=遂昌综合 group-title=,遂昌综合 1080A
+http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1,tvg-logo=腾冲综合.png tvg-name=腾冲综合 group-title=,腾冲综合 1080A
+http://live.ynurl.com/video/s10012-TCTV/index.m3u8
+
+
+
+#EXTINF:-1,tvg-logo=海西州综合频道.png tvg-name=海西州综合频道 group-title=,海西州综合频道 576A
+http://stream.haixitv.cn/1/sd/live.m3u8
+
+
+
+
+
+
+
+
+ 
+
+#EXTINF:-1,tvg-logo=滦县综艺频道.png tvg-name=滦县综艺频道 group-title=,滦县综艺频道 576B
+http://hblxx.chinashadt.com:2036/live/stream:lx2.stream/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo=CGTN.png tvg-name=CGTN group-title=,CGTN
+http://39.134.19.244:6610/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+
+
+
+
+
+
+
+#EXTINF:-1,tvg-logo=CCTV相声小品.png tvg-name=CCTV-IPTV相声小品 group-title=,CCTV-IPTV相声小品
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226346/index.m3u8
+
+#EXTINF:-1,tvg-logo=央视综艺IPTV3.png tvg-name=央视综艺IPTV3 group-title=,央视综艺IPTV3
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226341/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1,tvg-logo=地雷战+.png tvg-name=地雷战+ group-title=,地雷战
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a90c788a458e40508615d711b8aae1af/850.m3u8
+
+
+
