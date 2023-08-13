@@ -113,7 +113,7 @@ urls: [ "http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a90c788a458
 
 "sites":[
 {"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"dr_豆瓣","name":"🔍豆瓣","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/豆瓣.js"},
+{"key":"dr_豆瓣","name":"🔍豆瓣","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/drpy.js"},
 
 
 
@@ -146,7 +146,7 @@ urls: [ "http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a90c788a458
 {"key":"鸭鸭","name":"🦆鸭鸭","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
 {"key":"迷你库","name":"Ⓜ️迷你库","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
 
-{"key":"csp_LiteApple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"dr_荐片","name":"🧲荐片","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","playerType":"1","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/荐片.js"},
 
 
 
@@ -161,7 +161,7 @@ urls: [ "http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a90c788a458
 {"key":"Ying","name":"🌸樱花","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Ysj","name":"📮异世界","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Yj1211","name":"📽️在线直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_AList","name":"🅰AList网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":1,"changeable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Alist.json"},
+{"key":"Alist","name":"🅰Alist","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Alist.json"},
 
 {"key":"csp_XBPQ_乐猪","name":"💢乐猪","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/乐猪.json"},
 {"key":"csp_XBPQ_ 咕噜咕噜","name":"💢咕噜咕噜","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/咕噜咕噜.json"},
@@ -198,13 +198,17 @@ urls: [ "http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a90c788a458
 
 
 "parses": [{
+		"name": "Json聚合",
+		"type": 3,
+		"url": "Demo"
+	}, {
 		"name": "Web聚合",
 		"type": 3,
 		"url": "Web"
 	}, {
-		"name": "Json聚合",
-		"type": 3,
-		"url": "Demo"
+		"name": "小新",
+		"type": 1,
+		"url": "http://xiaoxin.1080p.fun/home/api?type=ys&uid=13270&key=cghkopqtuBFHKQSW38&url="
 	}, {
 		"name": "777",
 		"type": 0,
@@ -227,16 +231,19 @@ urls: [ "http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a90c788a458
 			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
 		}    
 	}, {
-		"name": "未知",
+		"name": "左岸",
 		"type": 0,
 		"url": "https://jx.jsonplayer.com/player/?url=",
 		"ext": {
 			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
 		}   
 	}, {
-		"name": "OKjx嗅探",
+		"name": "ckmov",
 		"type": 0,
-		"url": "https://okjx.cc/?url="
+		"url": "https://yun.ckmov.com/?url=",
+		"ext": {
+			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
+		}  
 	}],
   
 
