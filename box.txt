@@ -97,7 +97,9 @@ urls: [ "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226556/index.m3u
 
 
 
-{"group": "老电影","channels": [
+{"group": "电影","channels": [
+
+
 {"name": "地雷战",
 urls: [ "http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a90c788a458e40508615d711b8aae1af/850.m3u8"]}  ]}
 
@@ -114,6 +116,22 @@ urls: [ "http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a90c788a458
 "sites":[
 {"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"dr_豆瓣","name":"🔍豆瓣","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/drpy.js"},
+{"key": "csp_xpath_bdys" ,"name":"哔嘀磁链"  ,"type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,
+"filterable":1,"ext":"https://agit.ai/guozu616/TVbox/raw/branch/main/MeowXP/biditd.json"},
+
+
+{"key": "csp_xBPQ_zizi ","name": "🍀子子影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/66666/mao/raw/branch/master/json/zizi.json"},
+ 
+{ "key": "csp_xb_CITY", "name": "CITY(R)","type": 3,"api": "csp_XBiu","searchable": 1, "quickSearch": 1,"filterable": 1,
+   "ext": "https://www.citydy.com/show/id-{cateId}/page/{catePg}.html","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
+  },
+
+{ "key": "bdys","name": "🅱磁力高清","type": 3,"api": "csp_XPbd","searchable": 1,"quickSearch": 1, "filterable": 1,
+       "ext": "https://mpimg.cn/down.php/393b95c02032196d2aab57b2951f8e4b.json",
+       "jar": "https://mpimg.cn/down.php/226db2fc833312b73b0bf57c7dd41484.jar;md5;226DB2FC833312B73B0BF57C7DD41484"
+     },
+
+
 
 
 
@@ -128,7 +146,18 @@ urls: [ "http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a90c788a458
 
 
 
-
+{"key":"drpy_js_NY影院","name":"🤦‍NY影院","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/NY影院.js"},
+{"key":"drpy_js_胖虎","name":"🐅胖虎","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/胖虎.js"},
+{"key":"drpy_js_时光影视","name":"✨时光影视","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/时光影视.js"},
+{"key":"drpy_js_凌云影视","name":"☁凌云影视","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/凌云影视.js"},
+{"key":"drpy_js_网飞TV","name":"🥅网飞TV","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/网飞.TV.js"},
+{"key":"drpy_js_爱看","name":"💞爱看","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/爱看.js"},
+{"key":"drpy_js_达达龟","name":"🐢达达龟","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/达达龟.js"},
+{"key":"drpy_js_创艺影视","name":"🩹创艺影视","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/创艺影视.js"},
+{"key":"drpy_js_B站影视","name":"🚏B站影视","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/B站影视.js"},
+{"key":"drpy_js_大豆","name":"🥔大豆","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/大豆.js"},
+{"key":"drpy_js_影渣渣","name":"🥶影渣渣","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/影渣渣.js"},
+{"key":"drpy_js_91free","name":"🃙91free","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/91free.js"},
 
 
 
@@ -187,16 +216,17 @@ urls: [ "http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a90c788a458
 
 
 {"key": "🦔无尽资源", "name": "🦔无尽资源🔞", "type": 1, "api": "https://api.wujinapi.me/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-{"key": "🌟影图", "name": "🌟影图", "type": 1, "api": "https://cj.vodimg.top/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-{"key": "🌶U酷资源", "name": "🌶U酷资源", "type": 1, "api": "https://api.ukuapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-{"key": "🧯百度资源", "name": "🧯百度资源", "type": 1, "api": "https://api.apibdzy.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-{"key": "📯卧龙资源", "name": "📯卧龙资源", "type": 1, "api": "https://collect.wolongzyw.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-{"key": "🍬映迷", "name": "🍬映迷", "type": 1, "api": "https://www.inmi.app/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-{"key": "🦆1080资源库1080资源库", "name": "🦆1080资源库1080资源库", "type": 1, "api": "https://api.1080zyku.com/inc/api_mac10.php", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+{"key": "🌟影图", "name": "🌟影图🔞", "type": 1, "api": "https://cj.vodimg.top/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+{"key": "🌶U酷资源", "name": "🌶U酷资源🔞", "type": 1, "api": "https://api.ukuapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+{"key": "🧯百度资源", "name": "🧯百度资源🔞", "type": 1, "api": "https://api.apibdzy.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+{"key": "📯卧龙资源", "name": "📯卧龙资源🔞", "type": 1, "api": "https://collect.wolongzyw.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+{"key": "🍬映迷", "name": "🍬映迷🔞", "type": 1, "api": "https://www.inmi.app/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+{"key": "🦆1080资源库1080资源库", "name": "🦆1080资源库1080资源库🔞", "type": 1, "api": "https://api.1080zyku.com/inc/api_mac10.php", "searchable": 1, "quickSearch": 1, "filterable": 0 },
 
 
 
-
+{"key": "csp_xpath_bdys" ,"name":"哔嘀磁链"  ,"type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,
+"filterable":1,"ext":"https://agit.ai/guozu616/TVbox/raw/branch/main/MeowXP/biditd.json"},
 {"key":"黄黄","name":"😎黄黄","api":"csp_AppYsV2","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
 {"key":"dr_有声小说吧","name":"有声小说吧","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/有声小说吧.js"},
 {"key":"直播","name":"💻电视直播","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/直播转点播.js","ext":"肥猫$http://我不是.肥猫.love:63/TV/tvzb.txt#俊于$http://home.jundie.top:81/Cat/tv/live.txt&&&https://api.caonm.net/api/mc/"},
