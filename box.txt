@@ -101,6 +101,8 @@ urls: [ "http://111.40.196.32:443/PLTV/88888888/224/3221225610/1.m3u8"]}  ]},
 {"key":"360","name":"💘360","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"drpy_js_歪片星球","name":"🪐歪片星球","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/歪片星球.js"},
 
+{"key": "🌟影图", "name": "🌟影图", "type": 1, "api": "https://cj.vodimg.top/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+{"key":"csp_YQKAPP","name":"🌎一起看","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
 {"key": "csp_xpath_bdys" ,"name":"哔嘀磁链"  ,"type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,
 "filterable":1,"ext":"https://agit.ai/guozu616/TVbox/raw/branch/main/MeowXP/biditd.json"},
 
@@ -154,7 +156,7 @@ urls: [ "http://111.40.196.32:443/PLTV/88888888/224/3221225610/1.m3u8"]}  ]},
 {"key":"csp_Lib","name":"🔷LibVio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc/"},
 {"key":"csp_Cokemv","name":"🚗可乐","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"🐰图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"SldYWXFabkhXTWlsTlpMdFNSSyN0ek1JdzlJQVJSY00=$$$Q01pbkowUzdvNnNZWk1WVw==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
-{"key":"csp_YQKAPP","name":"🌎一起看","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
+
 
 
 {"key":"csp_fantuan","name":"🍙饭团","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
@@ -201,7 +203,7 @@ urls: [ "http://111.40.196.32:443/PLTV/88888888/224/3221225610/1.m3u8"]}  ]},
 
 
 {"key": "🦔无尽资源", "name": "🦔无尽资源🔞", "type": 1, "api": "https://api.wujinapi.me/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-{"key": "🌟影图", "name": "🌟影图🔞", "type": 1, "api": "https://cj.vodimg.top/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+
 {"key": "🌶U酷资源", "name": "🌶U酷资源🔞", "type": 1, "api": "https://api.ukuapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
 {"key": "🧯百度资源", "name": "🧯百度资源🔞", "type": 1, "api": "https://api.apibdzy.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
 {"key": "📯卧龙资源", "name": "📯卧龙资源🔞", "type": 1, "api": "https://collect.wolongzyw.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
