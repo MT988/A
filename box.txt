@@ -117,11 +117,15 @@ urls: [ "http://111.40.196.32:443/PLTV/88888888/224/3221225610/1.m3u8"]}  ]},
 {"key":"csp_MGTV","name":"🥭芒","type":3,"api":"csp_MGTV","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://download.kstore.space/download/2863/xsxin.jar;md5;76ddd410eca67676f4c23a24ae4c7df7"},
 
 
+{"key":"drpy_js_优酷","name":"🏎️酷酷","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/优酷.js"},
 
 
 
 {"key":"drpy_js_歪片星球","name":"🪐歪片星球","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/歪片星球.js"},
 
+{"key":"Kuaikan","name":"🚀快看影视(优)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"drpy_js_七年影视","name":"🀖七年影视","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/七年影视.js"},
 
 {"key": "csp_xpath_bdys" ,"name":"哔嘀磁链"  ,"type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,
 "filterable":1,"ext":"https://agit.ai/guozu616/TVbox/raw/branch/main/MeowXP/biditd.json"},
@@ -145,9 +149,20 @@ urls: [ "http://111.40.196.32:443/PLTV/88888888/224/3221225610/1.m3u8"]}  ]},
 //双十电影，自营高清很快
 {"key":"drpy_js_双十电影","name":"🕇双十电影","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/双十电影.js"},
 
+
+
+{"key":"drpy_js_345看片","name":"🦦345看片","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/345看片.js"},
+
+{"key": "drpy_js_cokemv", "name": "🕵cokemv🕵", "type": 3, "api": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/cokemv.js"},
+
 {"key":"Hei","name":"石榴","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45"},
  {"key":"Auete","name":"奥特","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b04b15448ad5bd4312f1fa1fb9aa9b1b"},
 
+{"key":"雨哥哥影视","name":"雨哥哥影视(聚)","type":1,"api":"http://cj.baozi66.top:66/api.php/provide/vod/","searchable":0,"quickSearch":0},
+
+
+
+ { "key": "drpy_js_人人影视", "name": "🕵人人影视🕵", "type": 3,  "api": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js", "ext": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/人人影视.js"},
 
 {"key":"csp_DiDuan","name":"📺低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Czsapp","name":"🏭厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
@@ -159,7 +174,7 @@ urls: [ "http://111.40.196.32:443/PLTV/88888888/224/3221225610/1.m3u8"]}  ]},
 {"key":"爱迪","name":"🍟爱迪","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
 
 {"key":"8090资源","name":"8090资源(官)","type":1,"api":"http://zy.yilans.net:8090/api.php/provide/vod/","searchable":0,"quickSearch":0},
-
+{"key":"Dm84r","name":"🚒Dm84(动画片)","api":"csp_Dm84","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://download.kstore.space/download/2863/cs.jar;md5;83fb605345300da7c3d2c2f2a36c6cdc"},
 {"key":"drpy_js_NY影院","name":"🤦‍NY影院","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/NY影院.js"},
 {"key":"drpy_js_胖虎","name":"🐅胖虎","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/胖虎.js"},
 {"key":"drpy_js_时光影视","name":"✨时光影视","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/时光影视.js"},
