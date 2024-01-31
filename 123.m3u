@@ -46,7 +46,15 @@ http://111.20.33.70/PLTV/88888893/224/3221226950/index.m3u8
 #EXTINF:-1, tvg-logo=CCTV怀旧剧场.png tvg-name=CCTV怀旧剧场 group-title=,CCTV怀旧剧场
 http://111.20.33.70/PLTV/88888893/224/3221226972/index.m3u8
 
+#EXTINF:-1,tvg-logo=凤凰中文.png tvg-name=凤凰中文 group-title=,凤凰中文
+http://111.20.33.70/PLTV/88888893/224/3221226547/index.m3u8
+#EXTINF:-1,tvg-logo=凤凰资讯.png tvg-name=凤凰资讯 group-title=,凤凰资讯
+http://111.20.33.70/PLTV/88888893/224/3221226546/index.m3u8
 
+
+
+#EXTINF:-1,tvg-logo=华数影视4K.png tvg-name=华数影视4K group-title=,华数影视4K
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 
 #EXTINF:-1,tvg-logo=CHC动作电影.png tvg-name=CHC动作电影 group-title=,CHC动作电影
 http://111.20.33.70/PLTV/88888893/224/3221226465/index.m3u8
@@ -55,16 +63,44 @@ http://111.20.33.70/PLTV/88888893/224/3221226462/index.m3u8
 #EXTINF:-1,tvg-logo=CHC高清电影.png tvg-name=CHC高清电影 group-title=,CHC高清电影
 http://111.20.33.70/PLTV/88888893/224/3221226463/index.m3u8
 
-#EXTINF:-1,tvg-logo=SiTV都市剧场.png tvg-name=SiTV都市剧场 group-title=,SiTV都市剧场
-http://111.20.33.70/PLTV/88888893/224/3221226581/index.m3u8
-
-#EXTINF:-1,tvg-logo=凤凰中文.png tvg-name=凤凰中文 group-title=,凤凰中文
-http://111.20.33.70/PLTV/88888893/224/3221226547/index.m3u8
-#EXTINF:-1,tvg-logo=凤凰资讯.png tvg-name=凤凰资讯 group-title=,凤凰资讯
-http://111.20.33.70/PLTV/88888893/224/3221226546/index.m3u8
-
 #EXTINF:-1, tvg-logo=陕西2.png tvg-name=陕西2（都市青春频道） group-title=,陕西2（都市青春频道）
 http://111.20.33.70/PLTV/88888893/224/3221226358/index.m3u8
+
+#EXTINF:-1,tvg-logo=黑莓电影.png tvg-name=黑莓电影 group-title=,黑莓电影
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000019624/1.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=3
+
+
+
+
+#EXTINF:-1,tvg-logo=Hot亚洲影院.png tvg-name=Hot亚洲影院 group-title=,Hot亚洲影院（720）
+http://zteres.sn.chinamobile.com:6060/000000001000/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=3
+#EXTINF:-1,tvg-logo=Hot欧美影院.png tvg-name=Hot欧美影院 group-title=,Hot欧美影院（720）
+http://zteres.sn.chinamobile.com:6060/000000001000/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=3
+
+#EXTINF:-1,tvg-logo=IHOT爱科幻.png tvg-name=IHOT爱科幻 group-title=,IHOT爱科幻
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
+#EXTINF:-1,tvg-logo=IHO爱奇谈.png tvg-name=IHO爱奇谈 group-title=,IHO爱奇谈
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000270630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=3
+#EXTINF:-1,tvg-logo=IHOT爱喜剧.png tvg-name=IHOT爱喜剧 group-title=,IHOT爱喜剧
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3
+#EXTINF:-1,tvg-logo=IHOT爱院线.png tvg-name=IHOT爱院线 group-title=,IHOT爱院线
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
+#EXTINF:-1,tvg-logo=超级电影.png tvg-name=超级电影影 group-title=,超级电影（有时转播CCTV6）
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000003000012426/1.m3u8?channel-id=ystenlive&Contentid=1000000003000012426&livemode=1&stbId=3
+#EXTINF:-1,tvg-logo=IHOT爱怀旧.png tvg-name=IHOT爱怀旧 group-title=,IHOT爱怀旧
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000260630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=3
+
+
+#EXTINF:-1,tvg-logo=欢笑剧场4K.png tvg-name=欢笑剧场4K group-title=,欢笑剧场4K
+http://111.20.33.70/PLTV/88888893/224/3221226582/index.m3u8
+
+#EXTINF:-1,tvg-logo=City都市剧场.png tvg-name=SiTV都市剧场 group-title=,SiTV都市剧场
+http://111.20.33.70/PLTV/88888893/224/3221226581/index.m3u8
+
+#EXTINF:-1,tvg-logo=华数精彩影视.png tvg-name=华数精彩影视 group-title=,华数精彩影视
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
+
+
 
 
 #EXTINF:-1, tvg-logo=江苏卫视.png tvg-name=江苏卫视 group-title=,江苏卫视
@@ -108,13 +144,30 @@ http://111.20.33.70/PLTV/88888893/224/3221226975/index.m3u8
 #EXTINF:-1,tvg-logo=精彩综艺.png tvg-name=精彩综艺 group-title=,精彩综艺
 http://111.20.33.70/PLTV/88888893/224/3221226009/index.m3u8
 
-#EXTINF:-1,tvg-logo=欢笑剧场4K.png tvg-name=欢笑剧场4K group-title=,欢笑剧场4K
-http://111.20.33.70/PLTV/88888893/224/3221226582/index.m3u8
 
 
 
-#EXTINF:-1, tvg-logo=哈哈炫动.png tvg-name=哈哈炫动（标清） group-title=,哈哈炫动（标清）
-http://111.20.33.70/PLTV/88888893/224/3221226213/index.m3u8
+
+#EXTINF:-1,tvg-logo=黑莓动画.png tvg-name=黑莓动画 group-title=,黑莓动画
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000021734/1.m3u8?channel-id=ystenlive&Contentid=1000000004000021734&livemode=1&stbId=3
+#EXTINF:-1,tvg-logo=少儿动漫.png tvg-name=少儿动漫 group-title=,少儿动漫（720，3M）
+http://zteres.sn.chinamobile.com:6060/000000001000/8145334647720731271/index.m3u8?channel-id=wasusyt&Contentid=8145334647720731271&livemode=1&stbId=3
+#EXTINF:-1,tvg-logo=动漫秀场.png tvg-name=动漫秀场 group-title=,动漫秀场
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000009/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000009&livemode=1&stbId=3
+#EXTINF:-1,tvg-logo=哈哈炫动.png tvg-name=哈哈炫动 group-title=,哈哈炫动（1080）
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000005000031641/1.m3u8?channel-id=bestzb&Contentid=5000000005000031641&livemode=1&stbId=3
+#EXTINF:-1,tvg-logo=卡酷少儿.png tvg-name=卡酷少儿 group-title=, 卡酷少儿（1080）
+http://zteres.sn.chinamobile.com:6060/000000001000/7851974109718180595/1.m3u8?channel-id=bestzb&Contentid=7851974109718180595&livemode=1&stbId=3
+#EXTINF:-1,tvg-logo=IHOT爱动漫.png tvg-name=IHOT爱动漫 group-title=,IHOT爱动漫
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
+#EXTINF:-1,tvg-logo=IHOT爱玩具.png tvg-name=IHOT爱玩具 group-title=,IHOT爱玩具
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3
+#EXTINF:-1,tvg-logo=IHOT爱幼教.png tvg-name=IHOT爱幼教 group-title=,IHOT爱幼教
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3
+#EXTINF:-1,tvg-logo=金鹰卡通.png tvg-name=金鹰卡通 group-title=,金鹰卡通（标清）
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000016601/1.m3u8?channel-id=ystenlive&Contentid=1000000002000016601&livemode=1&stbId=3
+#EXTINF:-1,tvg-logo=优漫卡通.png tvg-name=优漫卡通 group-title=,优漫卡通（标清）
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000010063/1.m3u8?channel-id=ystenlive&Contentid=1000000002000010063&livemode=1&stbId=3
 #EXTINF:-1, tvg-logo=嘉佳卡通.png tvg-name=嘉佳卡通（标清） group-title=,嘉佳卡通（标清）
 http://111.20.33.70/PLTV/88888893/224/3221226227/index.m3u8
 
@@ -398,3 +451,5 @@ https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
 #EXTINF:-1,  tvg-logo=临沂综合频道.png tvg-name=临沂综合频道 group-title=,临沂综合频道
 https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8
 
+#EXTINF:-1,  tvg-logo=中国天气.png tvg-name=中国天气 group-title=,中国天气（标清）
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000057/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000057&livemode=1&stbId=3
