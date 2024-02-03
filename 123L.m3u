@@ -60,12 +60,12 @@ http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002187/index.m3u8?
 
 
 
-#EXTINF:-1, tvg-logo=陕西2.png tvg-name=陕西2（都市青春频道） group-title=,陕西2（都市青春频道）
+#EXTINF:-1, tvg-logo=陕西2.png tvg-name=陕西2（都市青春频道） group-title=,陕西2（都市青春频道1080）
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001593/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 
 #EXTINF:-1, tvg-logo=陕西卫视.png tvg-name=陕西卫视 group-title=,陕西卫视（标清）
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001539/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://zteres.sn.chinamobile.com:6060/000000001000/6194965711565916623/index.m3u8?channel-id=wasusyt&Contentid=6194965711565916623&livemode=1&stbId=3
 #EXTINF:-1, tvg-logo=江苏卫视.png tvg-name=江苏卫视 group-title=,江苏卫视（720）
 http://zteres.sn.chinamobile.com:6060/000000001000/4690153511271751319/index.m3u8?channel-id=ystenlive&Contentid=4690153511271751319&livemode=1&stbId=3
 #EXTINF:-1, tvg-logo=湖南卫视.png tvg-name=湖南卫视 group-title=,湖南卫视（720）
