@@ -273,26 +273,15 @@ http://111.20.33.70/PLTV/88888893/224/3221226380/index.m3u8
 http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
 
 
-#EXTINF:-1, tvg-logo=南宁影视娱乐.png tvg-name=南宁影视娱乐 group-title=,南宁影视娱乐
-http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
+
 
 #EXTINF:-1,tvg-logo=大厂县一套.png tvg-name=大厂县一套 group-title=,河北-大厂县一套
 http://60.10.185.184:1935/live/dc1.stream/playlist.m3u8
 
 
-#EXTINF:-1 , tvg-logo=大丰新闻综合.png tvg-name=大丰新闻综合 group-title=,江苏大丰新闻综合 1080
-http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8
-#EXTINF:-1 , tvg-logo=大丰公共频道.png tvg-name=大丰公共频道 group-title=,江苏大丰公共频道 1080
-http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8
-#EXTINF:-1 , tvg-logo=盐都综合频道.png tvg-name=盐都综合频道 group-title=,江苏盐都综合频道 1080
-http://yandu-tv-hls.cm.jstv.com/yandu-tv/yanduzh.m3u8
-
 #EXTINF:-1, tvg-logo=元宝山综合.png tvg-name=元宝山综合 group-title=,内蒙古元宝山综合1080
 http://l2yx82zv.live2.danghongyun.com/live/hls/8be0890a1b0c4d7aaf80b51ea8646682/5a8988f5ecc64986a19aa9b6b3a052a6-1.m3u8
-#EXTINF:-1, tvg-logo=吴忠综合.png tvg-name=吴忠综合 group-title=,宁夏吴忠综合 1080
-http://live.kanwz.net/zhpd/sd/live.m3u8
-#EXTINF:-1 , tvg-logo=吴忠公共.png tvg-name=吴忠公共 group-title=,宁夏吴忠公共 720
-http://live.kanwz.net/ggpd/sd/live.m3u8
+
 
 #EXTINF:-1 , tvg-logo=怀仁综合频道.png tvg-name=怀仁综合频道 group-title=,山西怀仁综合频道 1080
 http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8
@@ -305,10 +294,7 @@ http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m
 #EXTINF:-1 , tvg-logo=泸州科教频道.png tvg-name=泸州科教频道 group-title=,四川泸州科教频道 720
 http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
 
-#EXTINF:-1 , tvg-logo=威远新闻综合.png tvg-name=威远新闻综合 group-title=,四川威远新闻综合 1080
-http://dxplay.scwy.cn/live/weiyuanzonghepingdao/index.m3u8
-#EXTINF:-1 , tvg-logo=南部新闻综合.png tvg-name=南部新闻综合 group-title=,四川南部新闻综合 720
-http://pili-live-rtmp.148.i2863.com/i2863-148/live_148_811389.m3u8
+
 #EXTINF:-1 , tvg-logo=松潘新闻综合.png tvg-name=松潘新闻综合 group-title=,四川松潘新闻综合 1080
 http://live.spccmc.com:90/live/spxwzh.m3u8
 #EXTINF:-1 , tvg-logo=乐至综合频道.png tvg-name=乐至综合频道 group-title=,四川乐至综合频道 1080
@@ -347,8 +333,7 @@ http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 
 
-#EXTINF:-1,tvg-logo=铜山综合频道.png tvg-name=铜山综合频道 group-title=,铜山综合频道 720A
-http://stream.tstvxmt.com/tstv1/sd/live.m3u8
+
 #EXTINF:-1,tvg-logo=龙泉.png tvg-name=龙泉 group-title=,龙泉 1080A
 http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
 #EXTINF:-1,tvg-logo=文成综合.png tvg-name=文成综合 group-title=,文成综合 720A
@@ -363,13 +348,6 @@ http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8
 #EXTINF:-1,tvg-logo=鹿泉二套.png tvg-name=鹿泉二套 group-title=,鹿泉二套
 https://jwliveqxzb.hebyun.com.cn/luquaner/luquaner.m3u8
-
-
-
-
-
-#EXTINF:-1,tvg-logo=淮南新闻综合.png tvg-name=淮南新闻综合 group-title=,淮南新闻综合
-http://stream.0554news.com/hnds1/sd/live.m3u8
 
 #EXTINF:-1,tvg-logo=汶川新闻综合.png tvg-name=汶川新闻综合 group-title=,汶川新闻综合 1080A
 http://live.iwcmt.cn:90/live/zhxw.m3u8
@@ -392,8 +370,7 @@ http://palive.patv123.com:8091/live/xwpd_800K.m3u8
 #EXTINF:-1,tvg-logo=云和新闻综合.png tvg-name=云和新闻综合 group-title=,云和新闻综合 720A
 http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
 
-#EXTINF:-1,tvg-logo=淮南公共频道.png tvg-name=淮南公共频道 group-title=,淮南公共频道 1080A
-http://stream.0554news.com/hnds2/sd/live.m3u8
+
 
 #EXTINF:-1,tvg-logo=房山电视台.png tvg-name=房山电视台 group-title=,房山电视台 720A
 https://live.funhillrm.com/2/playlist.m3u8
@@ -430,11 +407,7 @@ http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 #EXTINF:-1,tvg-logo=兰溪新闻综合.png tvg-name=兰溪新闻综合 group-title=,兰溪新闻综合 720B
 http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
 
-#EXTINF:-1,tvg-logo=河源综合.png tvg-name=河源综合 group-title=,河源综合 1080A
-http://live.hyxrmt.com:85/live/xwpd.m3u8
 
-#EXTINF:-1,tvg-logo=河源公共.png tvg-name=河源公共 group-title=,河源公共 540A
-http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 #EXTINF:-1,tvg-logo=河源综合.png tvg-name=河源综合 group-title=,河源综合 540A
 http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 
