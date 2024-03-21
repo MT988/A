@@ -12,7 +12,7 @@
 
 
 //下面是主要使用的 饭太硬，http://饭太硬.top/tv
-"spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704615937579/fan.txt;md5;5aee1ff968a3dc5cbbf225399e9441e9",
+"spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710756082799/fan.txt;md5;dd909349c70fe92e82470eba611b7094",
 	
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
@@ -211,22 +211,25 @@ urls: [ "http://epg.112114.xyz/douyu/3637778"]}
 { "key": "荐片", "name": "Ⓜ️荐片(MT线)🅰️", "type": 3, "searchable": 1,  "quickSearch": 1,  "changeable": 1, "playerType": "1",
  "api": "https://ghproxy.net/https://raw.githubusercontent.com/MT988/A/main/jpapi.js",   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/MT988/A/main/jpext.js"  },
 
-
-
-
-
-
-
-
 { "key": "豆豆", "name": "豆瓣推荐", "type": 3, "api": "csp_DouDou", "searchable": 0, "quickSearch": 0, "filterable": 0 },
 
 {"key":"csp_77","name":"👒酷云七七🅰️","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
+    { "key": "白嫖", "name": "👻白飘┃无广🅰️",  "type": 3, "api": "csp_BaiPiao",
+      "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1  },
+
+    {   "key": "酷看",  "name": "💡酷看┃秒播🅰️",  "type": 3, "api": "csp_Kkys", "timeout": 15,
+      "searchable": 1, "quickSearch": 1,  "changeable": 1  },
+
+    {  "key": "苹果", "name": "🍎小苹果┃复活🅰️",  "type": 3,  "api": "csp_LiteApple",  "searchable": 1,
+      "quickSearch": 1,  "changeable": 1  },
+
+    { "key": "原创",   "name": "☀原创┃无广(不支持搜索)🅰️", "type": 3, "api": "csp_YCyz", "timeout": 15,
+      "searchable": 1, "quickSearch": 1,  "changeable": 1 },
 
 
 
-  { "key": "九六", "name": "🎀九六┃直连🅰️","type": 3, "api": "csp_Cs1369", "playerType": 2, "searchable": 1, "quickSearch": 1,
-      "changeable": 1 },
+
 
 
     { "key": "drpy_js_量子资源",  "name": "量子🅰️",   "type": 3,
@@ -243,7 +246,7 @@ urls: [ "http://epg.112114.xyz/douyu/3637778"]}
 {"key":"csp_Bttwoo","name":"✌2BT(不支持搜索)🅰️","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 
 
-{"key": "Auete","name": "🏝奥特🅰️(不支持搜索)", "type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://haozhansou.com/"},
+
 
 
 { "key": "csp_AppMr", "name": "🕺小明影视🅰️", "type": 3, "api": "csp_AppMr","searchable": 1,"quickSearch": 1,"filterable": 1
@@ -260,8 +263,7 @@ urls: [ "http://epg.112114.xyz/douyu/3637778"]}
     { "key": "南瓜","name": "🎃南瓜┃App🅰️", "type": 3, "api": "csp_NanGua", "playerType": 2,
       "searchable": 1, "quickSearch": 1,  "changeable": 1 },
 
- { "key": "Czsapp", "name": "📔厂长🅰️(不支持搜索)", "type": 3, "api": "csp_Czsapp","playerType": 2,"searchable": 1, "quickSearch": 1,
-      "changeable": 1, "ext": "https://www.czzy33.com/" },
+
 
 
 
@@ -281,23 +283,11 @@ urls: [ "http://epg.112114.xyz/douyu/3637778"]}
 
 {"key":"Dm84r","name":"🚒Dm84(动画片)🅰️","api":"csp_Dm84","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://download.kstore.space/download/2863/cs.jar;md5;83fb605345300da7c3d2c2f2a36c6cdc"},
 
-{"key": "csp_XBPQ_6V","name": "🌙宝盒磁力(不支持搜索)","type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1,
-  "ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XB/6V%e7%a3%81.json"},
-
-    {"key": "ikanbot3","name": "爱看机器🅰️","type": 3,
-      "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js",
-      "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/ikanbot3.js"  },
 
  { "key": "drpy_js_人人影视", "name": "人人影视(多线路)", "type": 3,  "api": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js", "ext": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/人人影视.js"},
 
 {"key":"drpy_js_网飞TV","name":"🥅网飞（多线路）TV","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/网飞.TV.js"},
 
-{"key":"drpy_js_影渣渣","name":"🥶影渣渣（多线路）","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
-"ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/影渣渣.js"},
-
-    { "key": "drpy_js_Alist", "name": "网盘 | Alist[js]",   "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/alist.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/txt/json/alist.json"   },
 
  { "key": "火狐", "name": "📛火狐(快,有字幕广告)", "type": 1,  "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",   "searchable": 1,  "quickSearch": 0,
   "filterable": 1, "categories": [    "内地剧",    "动画片", "中国动漫", "动作片",  "科幻片",  "大陆综艺",     "记录片" ] }
