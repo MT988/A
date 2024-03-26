@@ -213,7 +213,7 @@ urls: [ "http://epg.112114.xyz/douyu/3637778"]}
 
 { "key": "豆豆", "name": "豆瓣推荐", "type": 3, "api": "csp_DouDou", "searchable": 0, "quickSearch": 0, "filterable": 0 },
 
-{"key":"csp_77","name":"👒酷云七七🅰️","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"77","name":"👒七七🅰️","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
     { "key": "白嫖", "name": "👻白飘┃无广🅰️",  "type": 3, "api": "csp_BaiPiao",
       "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1  ,   "ext": "https://www.baipiaoys.com/" },
@@ -237,16 +237,7 @@ urls: [ "http://epg.112114.xyz/douyu/3637778"]}
       "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/量子资源.js"  },
 
 
-    {"key": "TVB云播", "name": "TVB云播🅰️", "type": 3, "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-      "searchable": 1, "changeable": 1,  "ext": "https://drpy.cainisi.cf/js/TVB云播.js" },
-
-
-
-
 {"key":"csp_Bttwoo","name":"✌2BT(不支持搜索)🅰️","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
-
-
-
 
 
 { "key": "csp_AppMr", "name": "🕺小明影视🅰️", "type": 3, "api": "csp_AppMr","searchable": 1,"quickSearch": 1,"filterable": 1
