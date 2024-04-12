@@ -373,5 +373,3 @@ https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
 #EXTINF:-1,  tvg-logo=临沂综合频道.png tvg-name=临沂综合频道 group-title=,临沂综合频道
 https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8
 
-#EXTINF:-1,  tvg-logo=中国天气.png tvg-name=中国天气 group-title=,中国天气（标清）
-http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000057/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000057&livemode=1&stbId=3
