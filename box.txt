@@ -63,57 +63,6 @@ urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226221/index.m3u8"]}      ]},
 
 
 
-
-
-{"group": "试看频道","channels": [
-
-
-
-
-{"name": "纯享4K",
-urls: [ "http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3"]},
-
-
-
-{"name": "CCTV16（4K）",
-urls: [ "http://zteres.sn.chinamobile.com:6060/000000001000/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3"]},
-
-{"name": "CGTN",
-urls: [ "http://zteres.sn.chinamobile.com:6060/000000001000/7745129417417101820/1.m3u8?channel-id=hnbblive&Contentid=7745129417417101820&livemode=1&stbId=3"]}
-
-
-
-    ]},
-
-
-
-{"group": "动画片","channels": [
-
-
-{"name": "黑莓动画",
-urls: [ "http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000021734/1.m3u8?channel-id=ystenlive&Contentid=1000000004000021734&livemode=1&stbId=3"]},
-
-{"name": "IHOT爱动漫",
-urls: [ "http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3"]},
-
-{"name": "少儿动漫（720）",
-urls: [ "http://zteres.sn.chinamobile.com:6060/000000001000/8145334647720731271/index.m3u8?channel-id=wasusyt&Contentid=8145334647720731271&livemode=1&stbId=3"]},
-
-{"name": "动漫秀场",
-urls: [ "http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000009/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000009&livemode=1&stbId=3"]},
-
-{"name": "哈哈炫动",
-urls: [ "http://zteres.sn.chinamobile.com:6060/000000001000/5000000005000031641/1.m3u8?channel-id=bestzb&Contentid=5000000005000031641&livemode=1&stbId=3"]},
-
-{"name": "卡酷少儿",
-urls: [ "http://zteres.sn.chinamobile.com:6060/000000001000/7851974109718180595/1.m3u8?channel-id=bestzb&Contentid=7851974109718180595&livemode=1&stbId=3"]}
-
-
-
-    ]},
-
-
-
 {"group": "电影","channels": [
 
 
@@ -123,48 +72,7 @@ urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226465/index.m3u8"]},
 {"name": "CHC家庭电影",
 urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226462/index.m3u8"]},
 {"name": "CHC高清电影",
-urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226463/index.m3u8"]},
-
-{"name": "黑莓电影",
-urls: [ "http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000019624/1.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=3"]},
-
-{"name": "Hot亚洲影院",
-urls: [ "http://zteres.sn.chinamobile.com:6060/000000001000/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=3"]},
-
-{"name": "Hot欧美影院",
-urls: [ "http://zteres.sn.chinamobile.com:6060/000000001000/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=3"]},
-
-{"name": "Hot精品剧场",
-urls: [ "http://zteres.sn.chinamobile.com:6060/000000001000/8230197131234717902/index.m3u8?channel-id=wasusyt&Contentid=8230197131234717902&livemode=1&stbId=3"]},
-
-{"name": "IHOT爱科幻",
-urls: [ "http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3"]},
-
-{"name": "IHO爱奇谈",
-urls: [ "http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000270630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=3"]},
-
-{"name": "IHO爱喜剧",
-urls: [ "http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3"]},
-
-{"name": "IHO爱院线",
-urls: [ "http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3"]},
-
-
-{"name": "华数精彩影视",
-urls: [ "http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3"]},
-
-{"name": "影视4K",
-urls: [ "http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3"]}
-
-
-
-
-
-
-
-
-
-
+urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226463/index.m3u8"]}
 
 
 
