@@ -12,7 +12,7 @@
 
 
 //下面是主要使用的 饭太硬，http://饭太硬.top/tv
-"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711988761126/fan.txt;md5;939c79aa5e93766504d1f7a957d32f24",
+"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1713263749769/fan.txt;md5;c84c36278bd8bc95a63449a128074be0",
 	
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
@@ -89,23 +89,24 @@ urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226463/index.m3u8"]}
 
 
 
+{ "key": "荐片", "name": "Ⓜ️荐片(MT线)🅰️", "type": 3, "searchable": 1,  "quickSearch": 1,  "changeable": 1, "playerType": "1",
+ "api": "https://ghproxy.net/https://raw.githubusercontent.com/MT988/A/main/jpapi.js",  
+ "ext": "https://ghproxy.net/https://raw.githubusercontent.com/MT988/A/main/jpext.js"  },
 
-
-
-
-{ "key": "贱贱", "name": "🌎荐片🅰️", "type": 3, "searchable": 1,  "quickSearch": 1,  "changeable": 1, "playerType": "1",
-   "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",   "ext":     "https://agit.ai/fantaiying/fty/raw/branch/master/ext/jp.js"  },
+{"key":"贱贱","name":"🌎荐片🅰️","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1",
+"api":"https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+"ext":"https://152.32.170.60/fantaiying/dr_py/raw/branch/main/js/荐片.js"},
 
    { "key": "drpy_js_荐片", "name": "✅荐片(备用线路)🅰️", "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"   },
 
-{ "key": "荐片", "name": "Ⓜ️荐片(MT线)🅰️", "type": 3, "searchable": 1,  "quickSearch": 1,  "changeable": 1, "playerType": "1",
- "api": "https://ghproxy.net/https://raw.githubusercontent.com/MT988/A/main/jpapi.js",   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/MT988/A/main/jpext.js"  },
+
 
 { "key": "豆豆", "name": "豆瓣推荐", "type": 3, "api": "csp_DouDou", "searchable": 0, "quickSearch": 0, "filterable": 0 },
 
-{"key":"77","name":"👒七七🅰️","type":3,"api":"csp_Kunyu77",  "timeout": 15,"searchable":1,"quickSearch":1, "changeable": 1},
+
+{"key":"七七","name":"👒七七🅰️","type":3,"api":"csp_Kunyu77",  "timeout": 15,"searchable":1,"quickSearch":1, "changeable": 1},
 
     { "key": "白嫖", "name": "👻白飘┃无广🅰️",  "type": 3, "api": "csp_BaiPiao",
       "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1  ,   "ext": "https://www.baipiaoys.com:9092/" },
