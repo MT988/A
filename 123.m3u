@@ -45,10 +45,6 @@ http://111.20.33.70/PLTV/88888893/224/3221226950/index.m3u8
 #EXTINF:-1, tvg-logo=CCTV怀旧剧场.png tvg-name=CCTV怀旧剧场 group-title=,CCTV怀旧剧场
 http://111.20.33.70/PLTV/88888893/224/3221226972/index.m3u8
 
-#EXTINF:-1,tvg-logo=凤凰中文.png tvg-name=凤凰中文 group-title=,凤凰中文
-http://111.20.33.70/PLTV/88888893/224/3221226547/index.m3u8
-#EXTINF:-1,tvg-logo=凤凰资讯.png tvg-name=凤凰资讯 group-title=,凤凰资讯
-http://111.20.33.70/PLTV/88888893/224/3221226546/index.m3u8
 
 
 #EXTINF:-1,tvg-logo=CHC动作电影.png tvg-name=CHC动作电影 group-title=,CHC动作电影
@@ -58,21 +54,16 @@ http://111.20.33.70/PLTV/88888893/224/3221226462/index.m3u8
 #EXTINF:-1,tvg-logo=CHC高清电影.png tvg-name=CHC高清电影 group-title=,CHC高清电影
 http://111.20.33.70/PLTV/88888893/224/3221226463/index.m3u8
 
+#EXTINF:-1,tvg-logo=SiTV都市剧场.png tvg-name=SiTV都市剧场 group-title=,SiTV都市剧场
+http://111.20.33.70/PLTV/88888893/224/3221226581/index.m3u8
 
+#EXTINF:-1,tvg-logo=凤凰中文.png tvg-name=凤凰中文 group-title=,凤凰中文
+http://111.20.33.70/PLTV/88888893/224/3221226547/index.m3u8
+#EXTINF:-1,tvg-logo=凤凰资讯.png tvg-name=凤凰资讯 group-title=,凤凰资讯
+http://111.20.33.70/PLTV/88888893/224/3221226546/index.m3u8
 
 #EXTINF:-1, tvg-logo=陕西2.png tvg-name=陕西2（都市青春频道） group-title=,陕西2（都市青春频道）
 http://111.20.33.70/PLTV/88888893/224/3221226358/index.m3u8
-
-
-
-#EXTINF:-1,tvg-logo=欢笑剧场4K.png tvg-name=欢笑剧场4K group-title=,欢笑剧场4K
-http://111.20.33.70/PLTV/88888893/224/3221226582/index.m3u8
-
-#EXTINF:-1,tvg-logo=City都市剧场.png tvg-name=SiTV都市剧场 group-title=,SiTV都市剧场
-http://111.20.33.70/PLTV/88888893/224/3221226581/index.m3u8
-
-
-
 
 
 #EXTINF:-1, tvg-logo=江苏卫视.png tvg-name=江苏卫视 group-title=,江苏卫视
@@ -116,10 +107,17 @@ http://111.20.33.70/PLTV/88888893/224/3221226975/index.m3u8
 #EXTINF:-1,tvg-logo=精彩综艺.png tvg-name=精彩综艺 group-title=,精彩综艺
 http://111.20.33.70/PLTV/88888893/224/3221226009/index.m3u8
 
+#EXTINF:-1,tvg-logo=欢笑剧场4K.png tvg-name=欢笑剧场4K group-title=,欢笑剧场4K
+http://111.20.33.70/PLTV/88888893/224/3221226582/index.m3u8
 
 
+
+#EXTINF:-1, tvg-logo=哈哈炫动.png tvg-name=哈哈炫动（标清） group-title=,哈哈炫动（标清）
+http://111.20.33.70/PLTV/88888893/224/3221226213/index.m3u8
 #EXTINF:-1, tvg-logo=嘉佳卡通.png tvg-name=嘉佳卡通（标清） group-title=,嘉佳卡通（标清）
 http://111.20.33.70/PLTV/88888893/224/3221226227/index.m3u8
+
+
 
 
 
@@ -135,9 +133,6 @@ http://111.20.33.70/PLTV/88888893/224/3221226947/index.m3u8
 #EXTINF:-1,tvg-logo=乐游.png tvg-name=乐游 group-title=,乐游
 http://111.20.33.70/PLTV/88888893/224/3221226580/index.m3u8
 
-
-#EXTINF:-1, tvg-logo=金鹰纪实.png tvg-name=金鹰纪实 group-title=,金鹰纪实
-http://111.20.105.60:6060/yinhe/2/ch00000090990000001699/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1,tvg-logo=开化国家公园.png tvg-name=开化国家公园 group-title=,开化国家公园 720B
 http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
@@ -254,24 +249,6 @@ http://110.153.180.106:55555/out_1/index.m3u8
 #EXTINF:-1 , tvg-logo=可克达拉综合.png tvg-name=可克达拉综合 group-title=,新疆可克达拉综合 1080
 http://test5.btzx.com.cn:80/live/kkdl.stream/playlist.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,tvg-logo=石景山电视台.png tvg-name=石景山电视台 group-title=,石景山电视台 1080A
-http://live.sjsrm.com/bjsjs/sd/live.m3u8
-
 #EXTINF:-1,tvg-logo=马尔康综合频道.png tvg-name=马尔康综合频道 group-title=,马尔康综合频道 1080A
 http://live.zmmek.com:90/live/zhxw.m3u8
 
@@ -280,8 +257,6 @@ http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
 
 #EXTINF:-1,tvg-logo=余姚新闻综合.png tvg-name=余姚新闻综合 group-title=,余姚新闻综合 576A
 http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
-
-
 
 #EXTINF:-1,tvg-logo=龙泉.png tvg-name=龙泉 group-title=,龙泉 1080A
 http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
@@ -298,6 +273,7 @@ https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8
 #EXTINF:-1,tvg-logo=鹿泉二套.png tvg-name=鹿泉二套 group-title=,鹿泉二套
 https://jwliveqxzb.hebyun.com.cn/luquaner/luquaner.m3u8
 
+
 #EXTINF:-1,tvg-logo=汶川新闻综合.png tvg-name=汶川新闻综合 group-title=,汶川新闻综合 1080A
 http://live.iwcmt.cn:90/live/zhxw.m3u8
 
@@ -313,16 +289,9 @@ http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 #EXTINF:-1,tvg-logo=开化新闻综合.png tvg-name=开化新闻综合 group-title=,开化新闻综合 720A
 http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8
 
-#EXTINF:-1,tvg-logo=蓬安新闻综合.png tvg-name=蓬安新闻综合 group-title=,蓬安新闻综合 720A
-http://palive.patv123.com:8091/live/xwpd_800K.m3u8
 
 #EXTINF:-1,tvg-logo=云和新闻综合.png tvg-name=云和新闻综合 group-title=,云和新闻综合 720A
 http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
-
-
-
-#EXTINF:-1,tvg-logo=房山电视台.png tvg-name=房山电视台 group-title=,房山电视台 720A
-https://live.funhillrm.com/2/playlist.m3u8
 
 #EXTINF:-1,tvg-logo=普陀新闻综合.png tvg-name=普陀新闻综合 group-title=,普陀新闻综合 720A
 http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
@@ -361,10 +330,6 @@ http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
 http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 
 
-
-#EXTINF:-1, tvg-logo=CGTN.png tvg-name=CGTN group-title=,CGTN
-http://39.134.19.244:6610/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
 #EXTINF:-1,  tvg-logo=临沂经济频道.png tvg-name=临沂经济频道 group-title=,临沂经济频道
 https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
 #EXTINF:-1,  tvg-logo=临沂公共频道.png tvg-name=临沂公共频道 group-title=,临沂公共频道
@@ -372,5 +337,3 @@ https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
 #EXTINF:-1,  tvg-logo=临沂综合频道.png tvg-name=临沂综合频道 group-title=,临沂综合频道
 https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8
 
-#EXTINF:-1 ,华数喜剧影院（标清，临沂直播源）
-http://144.52.162.149:9901/tsfile/live/1076_1.m3u8
