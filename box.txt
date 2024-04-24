@@ -116,7 +116,7 @@ urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226463/index.m3u8"]}
     {  "key": "苹果", "name": "🍎小苹果┃复活🅰️",  "type": 3,  "api": "csp_LiteApple",  "searchable": 1,
       "quickSearch": 1,  "changeable": 1  },
 
-    { "key": "原创",   "name": "☀原创┃无广(不支持搜索)🅰️", "type": 3, "api": "csp_YCyz", "timeout": 15,
+    { "key": "原创",   "name": "☀原创(不支持搜索)🅰️", "type": 3, "api": "csp_YCyz", "timeout": 15,
       "searchable": 1, "quickSearch": 1,  "changeable": 1 },
 
 {"key":"csp_Bttwoo","name":"✌2BT(不支持搜索)🅰️","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
