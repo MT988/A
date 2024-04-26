@@ -56,16 +56,9 @@ urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226921/index.m3u8"]},
 {"name": "CCTV17",
 urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226198/index.m3u8"]},
 {"name": "CCTV5+",
-urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226221/index.m3u8"]}      ]},
+urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226221/index.m3u8"]},
 
 
-
-
-{"group": "电影","channels": [
-
-
-{"name": "外语片",
-urls: [ "https://pull.kktv8.com/livekktv/128600025.flv"]},
 {"name": "CHC动作电影",
 urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226465/index.m3u8"]},
 {"name": "CHC家庭电影",
@@ -96,7 +89,7 @@ urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226463/index.m3u8"]}
 "api":"https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
 "ext":"https://152.32.170.60/fantaiying/dr_py/raw/branch/main/js/荐片.js"},
 
-   { "key": "drpy_js_荐片", "name": "✅荐片(备用线路)🅰️", "type": 3,
+   { "key": "drpy_js_荐片", "name": "🌌荐片(备用线路)🅰️", "type": 3,
       "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"   },
 
@@ -119,7 +112,7 @@ urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226463/index.m3u8"]}
     { "key": "原创",   "name": "☀原创(不支持搜索)🅰️", "type": 3, "api": "csp_YCyz", "timeout": 15,
       "searchable": 1, "quickSearch": 1,  "changeable": 1 },
 
-{"key":"csp_Bttwoo","name":"✌2BT(不支持搜索)🅰️","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Bttwoo","name":"✌2BT🅰️","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 
 
 { "key": "csp_AppMr", "name": "🕺小明影视🅰️", "type": 3, "api": "csp_AppMr","searchable": 1,"quickSearch": 1,"filterable": 1
