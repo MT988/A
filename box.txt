@@ -97,8 +97,8 @@ urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226463/index.m3u8"]}
 "ext":"https://152.32.170.60/fantaiying/dr_py/raw/branch/main/js/荐片.js"},
 
    { "key": "drpy_js_荐片", "name": "✅荐片(备用线路)🅰️", "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"   },
+      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"   },
 
 
 
