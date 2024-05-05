@@ -49,24 +49,29 @@ urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226190/index.m3u8"]},
 urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226233/index.m3u8"]},
 {"name": "CCTV14",
 urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226193/index.m3u8"]},
-{"name": "CCTV15",
-urls: [ "http://39.134.24.193/PLTV/88888888/224/3221225636/index.m3u8"]},
+
 {"name": "CCTV16",
 urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226921/index.m3u8"]},
 {"name": "CCTV17",
 urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226198/index.m3u8"]},
 {"name": "CCTV5+",
 urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226221/index.m3u8"]},
-
-
+{"name": "CCTV4K",
+urls: [ "http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8"]},
 {"name": "CHC动作电影",
 urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226465/index.m3u8"]},
 {"name": "CHC家庭电影",
 urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226462/index.m3u8"]},
 {"name": "CHC高清电影",
-urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226463/index.m3u8"]}
-
-
+urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226463/index.m3u8"]},
+{"name": "周星驰（需换成EXO解码）",
+urls: [ "http://cfss.cc/cdn/hy/11342412.flv"]},
+{"name": "五福星（需换成EXO解码）",
+urls: [ "http://cfss.cc/cdn/hy/11282233.flv"]},
+{"name": "成龙（需换成EXO解码）",
+urls: [ "http://cfss.cc/cdn/hy/11342386.flv"]},
+{"name": "猫和老鼠（需换成EXO解码）",
+urls: [ "https://www.goodiptv.club/huya/11352879"]}
 
   ]},
 
@@ -82,16 +87,16 @@ urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226463/index.m3u8"]}
 
 
 { "key": "荐片", "name": "Ⓜ️荐片(MT线)🅰️", "type": 3, "searchable": 1,  "quickSearch": 1,  "changeable": 1, "playerType": "1",
- "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/MT988/A/main/jpapi.js",  
- "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/MT988/A/main/jpext.js"  },
+ "api": "https://ghproxy.net/https://raw.githubusercontent.com/MT988/A/main/jpapi.js",  
+ "ext": "https://ghproxy.net/https://raw.githubusercontent.com/MT988/A/main/jpext.js"  },
 
 {"key":"贱贱","name":"🌎荐片🅰️","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1",
 "api":"https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
 "ext":"https://152.32.170.60/fantaiying/dr_py/raw/branch/main/js/荐片.js"},
 
    { "key": "drpy_js_荐片", "name": "🌌荐片(备用线路)🅰️", "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"   },
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"   },
 
 
 
