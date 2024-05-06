@@ -70,6 +70,8 @@ urls: [ "http://cfss.cc/cdn/hy/11342412.flv"]},
 urls: [ "http://cfss.cc/cdn/hy/11282233.flv"]},
 {"name": "成龙（需换成EXO解码）",
 urls: [ "http://cfss.cc/cdn/hy/11342386.flv"]},
+{"name": "影视笑工厂",
+urls: [ "https://epg.pw/stream/a7fc436f135cf707468d492ab92f6d29e003a64ae8fbef63af0d9d5d52f98354.ctv"]},
 {"name": "猫和老鼠（需换成EXO解码）",
 urls: [ "https://www.goodiptv.club/huya/11352879"]}
 
