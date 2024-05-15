@@ -73,17 +73,8 @@ urls: [ "http://113.9.141.161:88/hls/136/index.m3u8"]},
 {"name": "黑莓电影",
 urls: [ "http://113.9.155.125:88/hls/119/index.m3u8"]},
 {"name": "黑莓动画",
-urls: [ "http://113.9.155.125:88/hls/300/index.m3u8"]},
-{"name": "周星驰(需换成EXO解码)",
-urls: [ "http://cfss.cc/cdn/hy/11342412.flv"]},
-{"name": "五福星(需换成EXO解码)",
-urls: [ "http://cfss.cc/cdn/hy/11282233.flv"]},
-{"name": "成龙(需换成EXO解码)",
-urls: [ "http://cfss.cc/cdn/hy/11342386.flv"]},
-{"name": "影视笑工厂",
-urls: [ "https://epg.pw/stream/a7fc436f135cf707468d492ab92f6d29e003a64ae8fbef63af0d9d5d52f98354.ctv"]},
-{"name": "猫和老鼠(需换成EXO解码)",
-urls: [ "https://www.goodiptv.club/huya/11352879"]}
+urls: [ "http://113.9.155.125:88/hls/300/index.m3u8"]}
+
 
   ]},
 
@@ -119,8 +110,7 @@ urls: [ "https://www.goodiptv.club/huya/11352879"]}
 
 
 
-    {   "key": "酷看",  "name": "💡酷看┃秒播🅰️",  "type": 3, "api": "csp_Kkys", "timeout": 15,
-      "searchable": 1, "quickSearch": 1,  "changeable": 1  },
+
 
     {  "key": "苹果", "name": "🍎小苹果┃复活🅰️",  "type": 3,  "api": "csp_LiteApple",  "searchable": 1,
       "quickSearch": 1,  "changeable": 1  },
@@ -146,8 +136,7 @@ urls: [ "https://www.goodiptv.club/huya/11352879"]}
 "filterable": 1,"jar": "https://tvmvip.com/xc/js/json/83.jar" },
 
 
-{"key":"王朝","name":"王朝🅰️","type":3,"api":"csp_Yswc","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"","jar":"http://cdn.qiaoji8.com/fix0804.jar;md5;f71431362b88ce020d9854eb9166841b"},
+
 
 {"key":"drpy_js_歪片星球","name":"🪐歪片星球(多线路)","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/歪片星球.js"},
 
