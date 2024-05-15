@@ -58,21 +58,31 @@ urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226198/index.m3u8"]},
 urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226221/index.m3u8"]},
 {"name": "CCTV4K",
 urls: [ "http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8"]},
+{"name": "凤凰中文(需换成EXO解码)",
+urls: [ "http://113.64.147.252:8811/hls/32/index.m3u8"]},
+{"name": "凤凰资讯(需换成EXO解码",
+urls: [ "http://113.64.147.252:8811/hls/33/index.m3u8"]},
 {"name": "CHC动作电影",
 urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226465/index.m3u8"]},
 {"name": "CHC家庭电影",
 urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226462/index.m3u8"]},
-{"name": "CHC高清电影",
+{"name": "CHC影迷电影",
 urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226463/index.m3u8"]},
-{"name": "周星驰（需换成EXO解码）",
+{"name": "超级电影",
+urls: [ "http://113.9.141.161:88/hls/136/index.m3u8"]},
+{"name": "黑莓电影",
+urls: [ "http://113.9.155.125:88/hls/119/index.m3u8"]},
+{"name": "黑莓动画",
+urls: [ "http://113.9.155.125:88/hls/300/index.m3u8"]},
+{"name": "周星驰(需换成EXO解码)",
 urls: [ "http://cfss.cc/cdn/hy/11342412.flv"]},
-{"name": "五福星（需换成EXO解码）",
+{"name": "五福星(需换成EXO解码)",
 urls: [ "http://cfss.cc/cdn/hy/11282233.flv"]},
-{"name": "成龙（需换成EXO解码）",
+{"name": "成龙(需换成EXO解码)",
 urls: [ "http://cfss.cc/cdn/hy/11342386.flv"]},
 {"name": "影视笑工厂",
 urls: [ "https://epg.pw/stream/a7fc436f135cf707468d492ab92f6d29e003a64ae8fbef63af0d9d5d52f98354.ctv"]},
-{"name": "猫和老鼠（需换成EXO解码）",
+{"name": "猫和老鼠(需换成EXO解码)",
 urls: [ "https://www.goodiptv.club/huya/11352879"]}
 
   ]},
@@ -107,8 +117,7 @@ urls: [ "https://www.goodiptv.club/huya/11352879"]}
 
 {"key":"七七","name":"👒七七🅰️","type":3,"api":"csp_Kunyu77",  "timeout": 15,"searchable":1,"quickSearch":1, "changeable": 1},
 
-    { "key": "白嫖", "name": "👻白飘┃无广🅰️",  "type": 3, "api": "csp_BaiPiao",
-      "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1  ,   "ext": "https://www.baipiaoys.com:9092/" },
+
 
     {   "key": "酷看",  "name": "💡酷看┃秒播🅰️",  "type": 3, "api": "csp_Kkys", "timeout": 15,
       "searchable": 1, "quickSearch": 1,  "changeable": 1  },
@@ -144,10 +153,13 @@ urls: [ "https://www.goodiptv.club/huya/11352879"]}
 
 {"key":"Dm84r","name":"🚒Dm84(动画片)🅰️","api":"csp_Dm84","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://download.kstore.space/download/2863/cs.jar;md5;83fb605345300da7c3d2c2f2a36c6cdc"},
 
+{ "key": "视觉", "name": "👓视觉┃多线", "type": 3, "api": "csp_Xinsj", "timeout": 15,  "searchable": 1,
+      "quickSearch": 1, "changeable": 1, "ext": "https://www.80yy3.com/"  },
 
  { "key": "drpy_js_人人影视", "name": "人人影视(多线路)", "type": 3,  "api": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js", "ext": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/人人影视.js"},
 
 {"key":"drpy_js_网飞TV","name":"🥅网飞（多线路）TV","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/网飞.TV.js"},
+
 
 
  { "key": "火狐", "name": "📛火狐(快,有字幕广告)", "type": 1,  "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",   "searchable": 1,  "quickSearch": 0,
