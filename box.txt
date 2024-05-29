@@ -102,39 +102,40 @@ urls: [ "http://cfss.cc/cdn/hy/11342412.flv"]}
 "api":"https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
 "ext":"https://152.32.170.60/fantaiying/dr_py/raw/branch/main/js/荐片.js"},
 
-   { "key": "drpy_js_荐片", "name": "🌌荐片(备用线路)🅰️", "type": 3,
+   { "key": "drpy_js_荐片", "name": "🌌荐片(备线)🅰️", "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"   },
 
 { "key": "豆豆", "name": "豆瓣推荐", "type": 3, "api": "csp_DouDou", "searchable": 0, "quickSearch": 0, "filterable": 0 },
 
-{"key":"七七","name":"👒七七🅰️","type":3,"api":"csp_Kunyu77",  "timeout": 15,"searchable":1,"quickSearch":1, "changeable": 1},
-
-    {  "key": "苹果", "name": "🍎小苹果┃复活🅰️",  "type": 3,  "api": "csp_LiteApple",  "searchable": 1,
+    {  "key": "苹果", "name": "🍎小苹果🅰️",  "type": 3,  "api": "csp_LiteApple",  "searchable": 1,
       "quickSearch": 1,  "changeable": 1  },
 
-    { "key": "原创",   "name": "☀原创(不支持搜索)🅰️", "type": 3, "api": "csp_YCyz", "timeout": 15,
+    { "key": "原创",   "name": "☀原创(不支持搜索)", "type": 3, "api": "csp_YCyz", "timeout": 15,
       "searchable": 1, "quickSearch": 1,  "changeable": 1 },
 
-{"key":"csp_Bttwoo","name":"✌2BT🅰️","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Bttwoo","name":"✌2BT","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 
-{ "key": "csp_AppMr", "name": "🕺小明影视🅰️", "type": 3, "api": "csp_AppMr","searchable": 1,"quickSearch": 1,"filterable": 1
+{ "key": "csp_AppMr", "name": "🕺小明影视", "type": 3, "api": "csp_AppMr","searchable": 1,"quickSearch": 1,"filterable": 1
             ,"jar": "http://我不是.肥猫.love:63/Jar/pandaQ230614c.jar;md5;FE290599BF2EF6D202B92B9B733F776F" },
 
- { "key": "csp_Mp4Mov", "name": "🧲Mp4电影🅰️", "type": 3, "api": "csp_Mp4Mov", "searchable": 1, "quickSearch": 1,
+ { "key": "csp_Mp4Mov", "name": "🧲Mp4电影", "type": 3, "api": "csp_Mp4Mov", "searchable": 1, "quickSearch": 1,
 "filterable": 1,  "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar" },
 
-    { "key": "南瓜","name": "🎃南瓜┃App🅰️", "type": 3, "api": "csp_NanGua", "playerType": 2,
+ { "key": "糯米",  "name": "🍙糯米┃秒播",  "type": 3,  "api": "csp_Nmys",  "timeout": 15,  "searchable": 1, "quickSearch": 1,
+      "changeable": 1, "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/nmys.json"  },
+
+    { "key": "南瓜","name": "🎃南瓜┃App", "type": 3, "api": "csp_NanGua", "playerType": 2,
       "searchable": 1, "quickSearch": 1,  "changeable": 1 },
 
- {"key": "csp_SeedHub","name": "🧲Hub🅰️", "type": 3, "api": "csp_SeedHub", "playerType": 1, "searchable": 1,  "quickSearch": 1,
+ {"key": "csp_SeedHub","name": "🧲Hub", "type": 3, "api": "csp_SeedHub", "playerType": 1, "searchable": 1,  "quickSearch": 1,
 "filterable": 1,"jar": "https://tvmvip.com/xc/js/json/83.jar" },
 
 {"key":"drpy_js_歪片星球","name":"🪐歪片星球(多线路)","type":3,
 "api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
 "ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/歪片星球.js"},
 
-{"key":"Dm84r","name":"🚒Dm84(动画片)🅰️","api":"csp_Dm84","type":3,"filterable":1,"quickSearch":1,"searchable":1,
+{"key":"Dm84r","name":"🚒Dm84(动画片)","api":"csp_Dm84","type":3,"filterable":1,"quickSearch":1,"searchable":1,
 "jar":"https://download.kstore.space/download/2863/cs.jar;md5;83fb605345300da7c3d2c2f2a36c6cdc"},
 
 { "key": "视觉", "name": "👓视觉┃多线", "type": 3, "api": "csp_Xinsj", "timeout": 15,  "searchable": 1,
