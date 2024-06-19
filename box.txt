@@ -58,8 +58,6 @@ urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226198/index.m3u8"]},
 urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226221/index.m3u8"]},
 {"name": "CCTV4K",
 urls: [ "http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8"]},
-{"name": "北京科教纪实8K",
-urls: [ "http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8"]},
 {"name": "凤凰中文",
 urls: [ "http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8"]},
 {"name": "凤凰资讯",
@@ -70,11 +68,11 @@ urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226465/index.m3u8"]},
 urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226462/index.m3u8"]},
 {"name": "CHC影迷电影",
 urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226463/index.m3u8"]},
-
-{"name": "北京IPTV淘电影",
-urls: [ "http://94c20af5f473.sn.mynetname.net:4022/rtp/239.3.1.250:8001"]},
-{"name": "BestTV电影4K",
-urls: [ "http://218.80.64.43:4022/udp/239.45.1.9:5140"]},
+{"name": "开心麻花电影",
+urls: [ "http://zby.xjqxz.top/live18/live.m3u8"]},
+{"name": "电影轮播",
+urls: [ "http://zby.xjqxz.top/zh15/live.m3u8"]},
+ 
 {"name": "周星驰（改为exo解码）",
 urls: [ "http://cfss.cc/cdn/hy/11342412.flv"]}
 
@@ -92,8 +90,8 @@ urls: [ "http://cfss.cc/cdn/hy/11342412.flv"]}
 
 
 { "key": "荐片", "name": "Ⓜ️荐片(MT线)🅰️", "type": 3, "searchable": 1,  "quickSearch": 1,  "changeable": 1, "playerType": "1",
- "api": "https://ghproxy.net/https://raw.githubusercontent.com/MT988/A/main/jpapi.js",  
- "ext": "https://ghproxy.net/https://raw.githubusercontent.com/MT988/A/main/jpext.js"  },
+ "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/MT988/A/main/jpapi.js",  
+ "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/MT988/A/main/jpext.js"  },
 
 {"key":"贱贱","name":"🌎荐片🅰️","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1",
  "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
