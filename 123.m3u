@@ -27,14 +27,16 @@ http://111.20.33.70/PLTV/88888893/224/3221226190/index.m3u8
 http://111.20.33.70/PLTV/88888893/224/3221226233/index.m3u8
 #EXTINF:-1, tvg-logo=CCTV14.png tvg-name=CCTV14 group-title=,CCTV14
 http://111.20.33.70/PLTV/88888893/224/3221226193/index.m3u8
-
+#EXTINF:-1, tvg-logo=CCTV15.png tvg-name=CCTV15 group-title=,CCTV15
+http://tiger81.i234.me:8888/rtp/239.109.205.103:8760
 #EXTINF:-1, tvg-logo=CCTV16.png tvg-name=CCTV16 group-title=,CCTV16
 http://111.20.33.70/PLTV/88888893/224/3221226921/index.m3u8
 #EXTINF:-1, tvg-logo=CCTV17.png tvg-name=CCTV17 group-title=,CCTV17
 http://111.20.33.70/PLTV/88888893/224/3221226198/index.m3u8
 #EXTINF:-1, tvg-logo=CCTV5+.png tvg-name=CCTV5+ group-title=,CCTV5+
 http://111.20.33.70/PLTV/88888893/224/3221226221/index.m3u8
-
+#EXTINF:-1 , tvg-logo=CCTV4K.png tvg-name=CCTV4K group-title=,CCTV4K
+http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
 
 #EXTINF:-1, tvg-logo=CCTV风云音乐.png tvg-name=CCTV风云音乐 group-title=,CCTV风云音乐
 http://111.20.33.70/PLTV/88888893/224/3221226953/index.m3u8
@@ -51,7 +53,7 @@ http://111.20.33.70/PLTV/88888893/224/3221226972/index.m3u8
 http://111.20.33.70/PLTV/88888893/224/3221226465/index.m3u8
 #EXTINF:-1,tvg-logo=CHC家庭影院.png tvg-name=CHC家庭影院 group-title=,CHC家庭影院
 http://111.20.33.70/PLTV/88888893/224/3221226462/index.m3u8
-#EXTINF:-1,tvg-logo=CHC高清电影.png tvg-name=CHC高清电影 group-title=,CHC高清电影
+#EXTINF:-1,tvg-logo=CHC影迷电影.png tvg-name=CHC影迷电影 group-title=,CHC影迷电影
 http://111.20.33.70/PLTV/88888893/224/3221226463/index.m3u8
 
 #EXTINF:-1,tvg-logo=SiTV都市剧场.png tvg-name=SiTV都市剧场 group-title=,SiTV都市剧场
@@ -95,6 +97,30 @@ http://111.20.33.70/PLTV/88888893/224/3221226215/index.m3u8
 #EXTINF:-1, tvg-logo=辽宁卫视.png tvg-name=辽宁卫视 group-title=,辽宁卫视
 http://111.20.33.70/PLTV/88888893/224/3221226201/index.m3u8
 
+#EXTINF:-1, tvg-logo=四川卫视.png tvg-name=四川卫视 group-title=,四川卫视
+http://tiger81.i234.me:8888/rtp/239.110.205.18:9818
+#EXTINF:-1, tvg-logo=贵州卫视.png tvg-name=贵州卫视 group-title=,贵州卫视
+http://tiger81.i234.me:8888/rtp/239.109.205.139:9024
+#EXTINF:-1, tvg-logo=甘肃卫视.png tvg-name=甘肃卫视 group-title=,甘肃卫视
+http://tiger81.i234.me:8888/rtp/239.111.205.88:5140
+#EXTINF:-1, tvg-logo=河南卫视.png tvg-name=河南卫视 group-title=,河南卫视
+http://tiger81.i234.me:8888/rtp/239.109.205.140:9026
+#EXTINF:-1, tvg-logo=吉林卫视.png tvg-name=吉林卫视 group-title=,吉林卫视
+http://tiger81.i234.me:8888/rtp/239.109.205.115:8856
+#EXTINF:-1, tvg-logo=江西卫视.png tvg-name=江西卫视 group-title=,江西卫视
+http://tiger81.i234.me:8888/rtp/239.109.205.96:8704
+#EXTINF:-1, tvg-logo=内蒙古卫视.png tvg-name=内蒙古卫视 group-title=,内蒙古卫视
+https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
+#EXTINF:-1, 青海卫视（720）
+http://stream.qhbtv.com/qhws/sd/live.m3u8
+#EXTINF:-1, 宁夏卫视
+https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
+#EXTINF:-1, 山西卫视（720）
+http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
+#EXTINF:-1, 延边卫视
+http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
+
+
 
 
 #EXTINF:-1, tvg-logo=CCTV电视指南.png tvg-name=CCTV电视指南 group-title=,CCTV电视指南
@@ -116,17 +142,19 @@ http://111.20.33.70/PLTV/88888893/224/3221226582/index.m3u8
 http://111.20.33.70/PLTV/88888893/224/3221226213/index.m3u8
 #EXTINF:-1, tvg-logo=嘉佳卡通.png tvg-name=嘉佳卡通（标清） group-title=,嘉佳卡通（标清）
 http://111.20.33.70/PLTV/88888893/224/3221226227/index.m3u8
-
-
-
+#EXTINF:-1, 内蒙古少儿频道
+https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
+#EXTINF:-1, [浙江]浙江少儿
+http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1, 宁夏少儿
+https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
 
 
 #EXTINF:-1, tvg-logo=CCTV央视文化精品.png tvg-name=CCTV央视文化精品 group-title=,CCTV央视文化精品
 http://111.20.33.70/PLTV/88888893/224/3221226981/index.m3u8
 #EXTINF:-1, tvg-logo=CCTV央视台球.png tvg-name=CCTV央视台球 group-title=,CCTV央视台球
 http://111.20.33.70/PLTV/88888893/224/3221226956/index.m3u8
-#EXTINF:-1,tvg-logo=CCTV女性时尚.png tvg-name=CCTV女性时尚 group-title=,CCTV女性时尚
-http://111.20.33.70/PLTV/88888893/224/3221226969/index.m3u8
+
 #EXTINF:-1, tvg-logo=CCTV世界地理.png tvg-name=CCTV世界地理 group-title=,CCTV世界地理
 http://111.20.33.70/PLTV/88888893/224/3221226947/index.m3u8
 
@@ -316,8 +344,7 @@ http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
 http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8
 
 
-#EXTINF:-1,tvg-logo=龙岩综合.png tvg-name=龙岩综合 group-title=,龙岩综合 540A
-http://stream.lytv.net.cn/2/sd/live.m3u8
+
 
 #EXTINF:-1,tvg-logo=龙游新闻综合.png tvg-name=龙游新闻综合 group-title=,龙游新闻综合 720A
 http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
