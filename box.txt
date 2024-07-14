@@ -49,7 +49,9 @@ urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226190/index.m3u8"]},
 urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226233/index.m3u8"]},
 {"name": "CCTV14",
 urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226193/index.m3u8"]},
-
+//CCTV15自四川南充电信组播
+{"name": "CCTV15",
+urls: [ "http://118.122.34.134:8888/rtp/239.93.16.131:7918"]},
 {"name": "CCTV16",
 urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226921/index.m3u8"]},
 {"name": "CCTV17",
@@ -58,6 +60,7 @@ urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226198/index.m3u8"]},
 urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226221/index.m3u8"]},
 {"name": "CCTV4K",
 urls: [ "http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8"]},
+//凤凰台自四川南充电信组播
 {"name": "凤凰中文",
 urls: [ "http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8"]},
 {"name": "凤凰资讯",
