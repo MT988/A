@@ -112,10 +112,6 @@ urls: [ "http://cfss.cc/cdn/hy/11342412.flv"]}
     {  "key": "苹果", "name": "🍎小苹果🅰️",  "type": 3,  "api": "csp_LiteApple",  "searchable": 1,
       "quickSearch": 1,  "changeable": 1  },
 
- { "key": "文采", "name": "💮文采┃秒播", "type": 3, "api": "csp_Jpys","playerType": 2, "searchable": 1,
-      "quickSearch": 1,   "changeable": 1  },
-
-
     { "key": "原创",   "name": "☀原创(不支持搜索)", "type": 3, "api": "csp_YCyz", "timeout": 15,
       "searchable": 1, "quickSearch": 1,  "changeable": 1 },
 
