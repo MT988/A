@@ -149,7 +149,7 @@ urls: [ "http://cfss.cc/cdn/hy/11342412.flv"]}
 
 {"key":"drpy_js_网飞TV","name":"🥅网飞（多线路）TV","type":3,
 "api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
-"ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/网飞.TV.js"},
+"ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/网飞.TV.js"}
 
 
 
