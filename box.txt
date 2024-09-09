@@ -12,7 +12,7 @@
 
 
 //下面是主要使用的 饭太硬，http://饭太硬.top/tv
-"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1714125698234/fan.txt;md5;ca8aebf22c8948c98104d094d5f87c73",
+"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725545601667/fan.txt;md5;329e914a90b0bb5c7cb69b0eaec19700",
 
 
 
@@ -49,9 +49,9 @@ urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226190/index.m3u8"]},
 urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226233/index.m3u8"]},
 {"name": "CCTV14",
 urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226193/index.m3u8"]},
-//CCTV15自四川南充电信组播
+//CCTV15自西安电信
 {"name": "CCTV15",
-urls: [ "http://118.122.34.134:8888/rtp/239.93.16.131:7918"]},
+urls: [ "http://202.100.46.58:9901/tsfile/live/1015_1.m3u8"]},
 {"name": "CCTV16",
 urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226921/index.m3u8"]},
 {"name": "CCTV17",
@@ -59,7 +59,7 @@ urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226198/index.m3u8"]},
 {"name": "CCTV5+",
 urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226221/index.m3u8"]},
 
-//凤凰台、华数4K、BEST自四川南充电信组播
+//凤凰台自四川南充电信组播
 {"name": "凤凰中文",
 urls: [ "http://118.122.34.134:8888/rtp/239.93.16.31:8012"]},
 {"name": "凤凰资讯",
@@ -107,22 +107,26 @@ urls: [ "http://cfss.cc/cdn/hy/11342412.flv"]}
 
 { "key": "豆豆", "name": "豆瓣推荐", "type": 3, "api": "csp_DouDou", "searchable": 0, "quickSearch": 0, "filterable": 0 },
 
+    { "key": "文采", "name": "💮文采┃秒播", "type": 3, "api": "csp_Jpys", "playerType": 2,
+      "searchable": 1, "quickSearch": 1,  "changeable": 1  },
+
+{  "key": "厂长", "name": "📔厂长┃不卡",  "type": 3,  "api": "csp_NewCz",  "timeout": 15,   "playerType": 2,
+      "searchable": 1,  "quickSearch": 1,  "changeable": 1,  "ext": "https://www.czys.pro/"  },
+
+
     {  "key": "苹果", "name": "🍎小苹果🅰️",  "type": 3,  "api": "csp_LiteApple",  "searchable": 1,
       "quickSearch": 1,  "changeable": 1  },
+
+{  "key": "新6V", "name": "🧲新6V┃磁力",  "type": 3, "api": "csp_SixV",   "searchable": 1,
+      "quickSearch": 1,   "changeable": 0,   "ext": "https://www.xb6v.com/" },
 
     { "key": "原创",   "name": "☀原创(不支持搜索)", "type": 3, "api": "csp_YCyz", "timeout": 15,
       "searchable": 1, "quickSearch": 1,  "changeable": 1 },
 
-{"key":"csp_Bttwoo","name":"✌2BT","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
-
-{ "key": "csp_AppMr", "name": "🕺小明影视", "type": 3, "api": "csp_AppMr","searchable": 1,"quickSearch": 1,"filterable": 1
-            ,"jar": "http://我不是.肥猫.love:63/Jar/pandaQ230614c.jar;md5;FE290599BF2EF6D202B92B9B733F776F" },
 
  { "key": "csp_Mp4Mov", "name": "🧲Mp4电影", "type": 3, "api": "csp_Mp4Mov", "searchable": 1, "quickSearch": 1,
 "filterable": 1,  "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar" },
 
- { "key": "糯米",  "name": "🍙糯米┃秒播",  "type": 3,  "api": "csp_Nmys",  "timeout": 15,  "searchable": 1, "quickSearch": 1,
-      "changeable": 1, "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/nmys.json"  },
 
     { "key": "南瓜","name": "🎃南瓜┃App", "type": 3, "api": "csp_NanGua", "playerType": 2,
       "searchable": 1, "quickSearch": 1,  "changeable": 1 },
@@ -137,8 +141,7 @@ urls: [ "http://cfss.cc/cdn/hy/11342412.flv"]}
 {"key":"Dm84r","name":"🚒Dm84(动画片)","api":"csp_Dm84","type":3,"filterable":1,"quickSearch":1,"searchable":1,
 "jar":"https://download.kstore.space/download/2863/cs.jar;md5;83fb605345300da7c3d2c2f2a36c6cdc"},
 
-{ "key": "视觉", "name": "👓视觉┃多线", "type": 3, "api": "csp_Xinsj", "timeout": 15,  "searchable": 1,
-      "quickSearch": 1, "changeable": 1, "ext": "https://www.80yy3.com/"  },
+
 
  { "key": "drpy_js_人人影视", "name": "人人影视(多线路)", "type": 3,  
 "api": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js", 
@@ -148,9 +151,7 @@ urls: [ "http://cfss.cc/cdn/hy/11342412.flv"]}
 "api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
 "ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/网飞.TV.js"},
 
- { "key": "火狐", "name": "📛火狐(快,有字幕广告)", "type": 1, 
- "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",   "searchable": 1,  "quickSearch": 0,
-  "filterable": 1, "categories": [    "内地剧",    "动画片", "中国动漫", "动作片",  "科幻片",  "大陆综艺",     "记录片" ] }
+
 
 
 
