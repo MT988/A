@@ -73,8 +73,7 @@ urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226465/index.m3u8"]},
 urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226462/index.m3u8"]},
 {"name": "CHC影迷电影",
 urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226463/index.m3u8"]},
-{"name": "开心麻花电影",
-urls: [ "http://zby.xjqxz.top/live18/live.m3u8"]},
+
  
  
 {"name": "周星驰（改为exo解码）",
