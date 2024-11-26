@@ -12,7 +12,7 @@
  
  
 //下面是主要使用的 饭太硬，http://饭太硬.top/tv
-"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729628389538/fan.txt;md5;dc29a25f7393c2c3aa9187a57f708309",
+"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732351865966/fan.txt;md5;73c62850faf556c9c2d7048baf3a5d3a",
  
  
  
@@ -86,9 +86,7 @@ urls: [ "http://118.122.34.134:8888/rtp/239.93.17.227:8572"]}
  
 "sites":[
  
- 
- 
- 
+
  
  
  
@@ -100,9 +98,13 @@ urls: [ "http://118.122.34.134:8888/rtp/239.93.17.227:8572"]}
  "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"},
  
-   { "key": "drpy_js_荐片", "name": "🌌荐片(备线)🅰️", "type": 3,
+   { "key": "drpy_js_荐片", "name": "🌌荐片(备线一)🅰️", "type": 3,
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"   },
+
+   {"key": "jpys","name": "🦋荐片(备线二)🅰️",  "type": 3, "api": "http://www.meowtv.cn/js/drpy2.min.js","searchable": 1,
+      "quickSearch": 1, "changeable": 1, "ext": "http://www.meowtv.cn/js/meow.php?file=jpys" },
+
  
 { "key": "豆豆", "name": "豆瓣推荐", "type": 3, "api": "csp_DouDou", "searchable": 0, "quickSearch": 0, "filterable": 0 },
  
