@@ -51,7 +51,7 @@ var rule = {
         html = JSON.parse(html).data[0].video;
         html.forEach(it => {
             d.push({
-                title: it.title,
+                title: it.title + ' ⭐' + it.score,
                 img: it.path,
                 desc: it.playlist.title + ' ⭐' + it.score,
                 url: it.id
