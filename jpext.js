@@ -92,7 +92,7 @@ var rule = {
             let node = html.data;
             VOD = {
                 vod_id: node.id,
-                vod_name: node.title,
+                vod_name: node.title + ' ⭐' + it.score,
                 vod_pic: node.thumbnail,
                 type_name: node.types[0].name,
                 vod_year: node.year.title,
