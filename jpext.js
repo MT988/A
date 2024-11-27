@@ -94,7 +94,7 @@ var rule = {
                 vod_id: node.id,
                 vod_name: node.title,
                 vod_pic: node.thumbnail,
-                type_name: node.types[0].name + '    ⭐' + node.score,
+                type_name: node.types[0].name + '  ⭐' + node.score,
                 vod_year: node.year.title,
                 vod_area: node.area.title,
                 vod_remarks: node.score,
