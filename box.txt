@@ -73,7 +73,8 @@ urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226465/index.m3u8"]},
 urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226462/index.m3u8"]},
 {"name": "CHC影迷电影",
 urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226463/index.m3u8"]},
-{"name": "爱院线电影",
+ 
+{"name": "iHOT爱院线",
 urls: [ "http://118.122.34.134:8888/rtp/239.93.17.227:8572"]}
  
   ]},
@@ -87,7 +88,7 @@ urls: [ "http://118.122.34.134:8888/rtp/239.93.17.227:8572"]}
 "sites":[
  
 
- 
+
  
  
 { "key": "荐片", "name": "Ⓜ️荐片(MT线)🅰️", "type": 3, "searchable": 1,  "quickSearch": 1,  "changeable": 1, "playerType": "1",
@@ -129,6 +130,10 @@ urls: [ "http://118.122.34.134:8888/rtp/239.93.17.227:8572"]}
  { "key": "csp_Mp4Mov", "name": "🧲Mp4电影", "type": 3, "api": "csp_Mp4Mov", "searchable": 1, "quickSearch": 1,
 "filterable": 1,  "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar" },
  
+   { "key": "糯米", "name": "🍓糯米",  "type": 3,  "api": "csp_Nmyswv",  "searchable": 1,
+      "quickSearch": 1,   "changeable": 1   },
+
+
  //小米接口
     { "key": "繁荣","name": "🥝凡人", "type": 3, "api": "csp_Frong",   "playerType": 1,
       "ext": "FMy4wLjJ8aHR0cDovLzQzLjI0OC4xMjguMTM4OjgxMzN8NDJmN2EyMDl8MjV8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MzNhN2ZmYTljODU0MTJjNzQyZjdhMjA5fDI1fDU2ODY4NTQzNEZFQzdDOEMyOTBBRTRGQjMyNUZGMTMwfHNoaWppZW1hb3R2fDMzYTdmZmE5Yzg1NDEyYzc=",
