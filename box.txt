@@ -91,8 +91,8 @@ urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226463/index.m3u8"]}
  
  
 { "key": "荐片", "name": "Ⓜ️荐片(MT线)🅰️", "type": 3, "searchable": 1,  "quickSearch": 1,  "changeable": 1, "playerType": "1",
- "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/MT988/A/main/jpapi.js",  
- "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/MT988/A/main/jpext.js"  },
+ "api": "https://ghproxy.net/https://raw.githubusercontent.com/MT988/A/main/jpapi.js",  
+ "ext": "https://ghproxy.net/https://raw.githubusercontent.com/MT988/A/main/jpext.js"  },
  
 {"key":"贱贱","name":"🌎荐片🅰️","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1",
  "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
