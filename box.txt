@@ -50,9 +50,9 @@ urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226190/index.m3u8"]},
 urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226233/index.m3u8"]},
 {"name": "CCTV14",
 urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226193/index.m3u8"]},
-//CCTV15自XA电信
+//CCTV15自等驾坡电信
 {"name": "CCTV15",
-urls: [ "http://202.100.46.58:9901/tsfile/live/1015_1.m3u8"]},
+urls: [ "http://39.170.52.236:808/hls/15/index.m3u8"]},
 {"name": "CCTV16",
 urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226921/index.m3u8"]},
 {"name": "CCTV17",
