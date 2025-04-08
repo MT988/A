@@ -93,6 +93,8 @@ urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226211/index.m3u8","http://11
  
 
 
+
+
 { "key": "荐片", "name": "Ⓜ️荐片(MT线)🅰️", "type": 3, "searchable": 1,  "quickSearch": 1,  "changeable": 1, "playerType": "1",
  "api": "https://ghproxy.net/https://raw.githubusercontent.com/MT988/A/main/jpapi.js",  
  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/MT988/A/main/jpext.js"  },
@@ -123,9 +125,10 @@ urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226211/index.m3u8","http://11
    {  "key": "Auete",  "name": "🏝奥特(不支持搜索)",   "type": 3,   "api": "csp_Auete",  "timeout": 15,
       "searchable": 1,  "quickSearch": 1,   "changeable": 1,  "ext": "https://auete.com/"  },
  
+  { "key": "白白", "name": "🐟白白", "type": 3, "api": "csp_SbaibaiGuard", "timeout": 10,
+      "playerType": 2, "searchable": 1,  "quickSearch": 1, "changeable": 1 },
 
  
-
 
 {"key":"暴風","name":"🌈暴風(有广告)","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","searchable":1,"changeable":1},
 
