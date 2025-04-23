@@ -111,100 +111,31 @@ urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226211/index.m3u8","http://11
       "quickSearch": 1, "changeable": 1, "ext": "http://www.meowtv.cn/js/meow.php?file=jpys" },
 
  
-{ "key": "豆豆", "name": "豆瓣推荐", "type": 3, "api": "csp_DouDou", "searchable": 0, "quickSearch": 0, "filterable": 0 },
- 
+{ "key": "豆豆", "name": "豆瓣推荐","type": 3, "api": "csp_DouDouGuard","indexs":1,"searchable": 0,"quickSearch": 0,"changeable":0},
 
- 
-    {  "key": "苹果", "name": "🍎小苹果🅰️",  "type": 3,  "api": "csp_LiteApple",  "searchable": 1,
-      "quickSearch": 1,  "changeable": 1  },
- 
-{  "key": "新6V", "name": "🧲新6V(不支持搜索)",  "type": 3, "api": "csp_SixV",   "searchable": 1,
-      "quickSearch": 1,   "changeable": 0,   "ext": "https://www.xb6v.com/" },
- 
 
-   {  "key": "Auete",  "name": "🏝奥特(不支持搜索)",   "type": 3,   "api": "csp_Auete",  "timeout": 15,
-      "searchable": 1,  "quickSearch": 1,   "changeable": 1,  "ext": "https://auete.com/"  },
- 
-  { "key": "白白", "name": "🐟白白", "type": 3, "api": "csp_SbaibaiGuard", "timeout": 10,
+  { "key": "白白", "name": "🐟白白🅰️", "type": 3, "api": "csp_SbaibaiGuard", "timeout": 10,
       "playerType": 2, "searchable": 1,  "quickSearch": 1, "changeable": 1 },
-
+ 
+ {"key": "苹果", "name": "🍎小苹果🅰️","type":3,"api":"csp_LiteAppleGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1}, 
  
 
-{"key":"暴風","name":"🌈暴風(有广告)","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","searchable":1,"changeable":1},
+ {"key":"暴風","name":"🌈暴風","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"changeable":1},
 
  { "key": "量子资源", "name": "量子(有广告)", "type": 1, "api": "https://cj.lziapi.com/api.php/provide/vod/",
       "searchable": 1, "changeable": 1,
       "categories": [ "动作片", "喜剧片", "科幻片",  "恐怖片",  "爱情片", "剧情片", "战争片", "记录片",
         "国产剧", "欧美剧","香港剧",  "韩国剧",  "台湾剧", "日本剧", "海外剧",  "泰国剧",  "国产动漫",
         "日韩动漫", "欧美动漫", "港台动漫", "海外动漫", "大陆综艺", "港台综艺",  "日韩综艺",  "欧美综艺" ] },
- 
- {"key": "csp_SeedHub","name": "🧲Hub(不支持搜索)", "type": 3, "api": "csp_SeedHub", "playerType": 1, "searchable": 1,  "quickSearch": 1,
-"filterable": 1,"jar": "https://tvmvip.com/xc/js/json/83.jar" }
- 
+
+{  "key": "新6V", "name": "🧲新6V(不支持搜索)",  "type":3,"api":"csp_SixVGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":0,"ext": "https://www.xb6v.com/"}
+
 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
 ],
  
  
-"parses": [
- 
- 
- 
- 
-//{  "name": "并发",   "type": 3,   "url": "Demo"  },
-//{"name": "Json聚合","type": 3,"url": "Demo"}, 
-//{"name":"Web聚合","type":3,"url":"Web"},
-//{"name": "Web聚合","type": 3,"url": "Web"},
-//{ "name": "🈚不解析", "type": 0,  "url": " "  },
- 
-{  "name": "解析0", "type": 1,"url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=",
-"ext": { "flag": [ "qq", "腾讯", "qiyi",  "iqiyi", "爱奇艺", "奇艺", "youku",  "优酷", "mgtv", "芒果",
-          "letv", "乐视",  "pptv",  "PPTV",  "sohu", "bilibili",  "哔哩哔哩", "哔哩"  ]} },
- 
-//M3U8TV
-{"name":"解析1","type": 0,"url":"https://jx.m3u8.tv/jiexi/?url="  }, 
- 
-//8090
-{"name":"解析2","url":"https://www.8090g.cn/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
- 
-{"name":"解析3","type":0,"url":"https://vip.lianfaka.com/vip/?url=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
- 
-//9TYC
-{"name":"解析4","type":0,"url":"https://www.8090g.cn/jiexi/?url="},
- 
-//CK
-{"name":"解析5","type":0,"url":"https://www.ckplayer.vip/jiexi/?url="},
- 
-//PM
-{"name":"解析6","url":"https://www.playm3u8.cn/jiexi.php?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
- 
-//夜幕
-{"name":"解析7","type":0,"url":"https://www.yemu.xyz/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
- 
-//10C
-{"name":"解析8","type":0,"url":"https://www.pangujiexi.com/pangu/?url="},
- 
-//🅱6秒后解析哔哩
-{"name": "🅱哔哩专解","type": 0,"url": "https://jx.playerjy.com/?ads=0&url=" }, 
- 
-//综合/B站
-{"name": "解析9","type": 0,"url": "https://jx.jsonplayer.com/player/?url="}
- 
-],
- 
- 
- 
- 
- 
+
  
   "doh": [
     {
