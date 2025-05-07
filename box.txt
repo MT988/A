@@ -1,17 +1,10 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途。自我学习用，严禁它用！]
-//爬虫spider//jar接口
- 
- 
-{    
- 
-"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745406107388/f0423a.txt;md5;d67e776740fc297d90f0310f701d8b83",
+{     
+"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746289852339/f0504.txt;md5;42ef09340295f4070cedad37bf759ef3",
 
  "warningText": "友情提示：广告都是骗子，爱护家人，谨防受骗！！！",
  
- 
 "lives":[
- 
-
  
 {"group": "CCTV","channels": [
 {"name": "CCTV1",
@@ -57,7 +50,6 @@ urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226547/index.m3u8","http://ph
 {"name": "凤凰资讯",
 urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226546/index.m3u8","http://php.jdshipin.com/TVOD/iptv.php?id=fhzx"]},
 
- 
 {"name": "CCTV怀旧剧场",
 urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226972/index.m3u8","http://111.20.33.70/PLTV/88888893/224/3221226972/index.m3u8"]},
 {"name": "CHC动作电影",
@@ -72,11 +64,7 @@ urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226200/index.m3u8","http://11
 {"name": "湖南卫视",
 urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226211/index.m3u8","http://111.20.33.70/PLTV/88888893/224/3221226211/index.m3u8"]}
 
-
-
- 
   ]},
- 
   ],
  
  
@@ -85,21 +73,15 @@ urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226211/index.m3u8","http://11
  
 
 
-{ "key": "荐片", "name": "Ⓜ️荐片(MT线)🅰️", "type": 3, "searchable": 1,  "quickSearch": 1,  "changeable": 1, "playerType": "1",
- "api": "https://ghproxy.net/https://raw.githubusercontent.com/MT988/A/main/jpapi.js",  
- "ext": "https://ghproxy.net/https://raw.githubusercontent.com/MT988/A/main/jpext.js"  },
 
- 
-{"key":"贱贱","name":"🌎荐片(备线一)🅰️","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1",
- "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"},
- 
-   { "key": "drpy_js_荐片", "name": "🌌荐片(备线二)🅰️", "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"   },
+{ "key": "荐片", "name": "🇲 🇹-1线🅰️", "type": 3, "searchable": 1,  "quickSearch": 1,  "changeable": 1, "playerType": "1",
+ "api": "https://ghproxy.net/https://raw.githubusercontent.com/MT988/A/main/jpapi.js",
+ "ext": "https://pastebin.com/raw/Kd4DkLA3"  },
 
-   {"key": "jpys","name": "🦋荐片(备线三)🅰️",  "type": 3, "api": "http://www.meowtv.cn/js/drpy2.min.js","searchable": 1,
-      "quickSearch": 1, "changeable": 1, "ext": "http://www.meowtv.cn/js/meow.php?file=jpys" },
+
+{ "key": "荐", "name": "🇲 🇹-2线🅰️", "type": 3, "searchable": 1,  "quickSearch": 1,  "changeable": 1, "playerType": "1", 
+  "api":"csp_JPJGuard",
+ "ext": "https://pastebin.com/raw/Kd4DkLA3"  },
 
  
 { "key": "豆豆", "name": "豆瓣推荐","type": 3, "api": "csp_DouDouGuard","indexs":1,"searchable": 0,"quickSearch": 0,"changeable":0},
@@ -122,6 +104,10 @@ urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226211/index.m3u8","http://11
       "categories": [ "动作片", "喜剧片", "科幻片",  "恐怖片",  "爱情片", "剧情片", "战争片", "记录片",
         "国产剧", "欧美剧","香港剧",  "韩国剧",  "台湾剧", "日本剧", "海外剧",  "泰国剧",  "国产动漫",
         "日韩动漫", "欧美动漫", "港台动漫", "海外动漫", "大陆综艺", "港台综艺",  "日韩综艺",  "欧美综艺" ] },
+
+ { "key": "XYQH_电影港", "name": "🚢电影港",  "type": 3,  "playerType": 1,
+ "jar": "https://jihulab.com/duomv/xduo/-/raw/main/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C","api": "csp_XYQHiker",
+ "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/电影港.json" },
 
 {  "key": "新6V", "name": "🧲新6V(不支持搜索)",  "type":3,"api":"csp_SixVGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":0,"ext": "https://www.xb6v.com/"}
 
