@@ -74,14 +74,15 @@ urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226211/index.m3u8","http://11
 
 
 
+
+
 { "key": "荐片", "name": "🇲 🇹-1线🅰️", "type": 3, "searchable": 1,  "quickSearch": 1,  "changeable": 1, "playerType": "1",
- "api": "https://ghproxy.net/https://raw.githubusercontent.com/MT988/A/main/jpapi.js",
+ "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
  "ext": "https://pastebin.com/raw/Kd4DkLA3"  },
 
 
 { "key": "荐", "name": "🇲 🇹-2线🅰️", "type": 3, "searchable": 1,  "quickSearch": 1,  "changeable": 1, "playerType": "1", 
-  "api":"csp_JPJGuard",
- "ext": "https://pastebin.com/raw/Kd4DkLA3"  },
+  "api":"csp_JPJGuard"  },
 
  
 { "key": "豆豆", "name": "豆瓣推荐","type": 3, "api": "csp_DouDouGuard","indexs":1,"searchable": 0,"quickSearch": 0,"changeable":0},
