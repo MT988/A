@@ -35,9 +35,9 @@ urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226190/index.m3u8","http://11
 urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226233/index.m3u8","http://111.20.33.70/PLTV/88888893/224/3221226233/index.m3u8"]},
 {"name": "CCTV14",
 urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226193/index.m3u8","http://111.20.33.70/PLTV/88888893/224/3221226193/index.m3u8"]},
-//CCTV15自等驾坡电信
 {"name": "CCTV15",
-urls: [ "http://39.170.52.236:808/hls/15/index.m3u8",]},
+urls: [ "http://182.254.225.1/zm/akmg.php?id=cctv15","http://sport.pendy.dpdns.org/migu/673168223?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA"]},
+
 {"name": "CCTV16",
 urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226921/index.m3u8","http://111.20.33.70/PLTV/88888893/224/3221226921/index.m3u8"]},
 {"name": "CCTV17",
@@ -46,9 +46,9 @@ urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226198/index.m3u8","http://11
 urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226221/index.m3u8","http://111.20.33.70/PLTV/88888893/224/3221226221/index.m3u8"]},
 
 {"name": "凤凰中文",
-urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226547/index.m3u8","http://php.jdshipin.com/TVOD/iptv.php?id=fhzw"]},
+urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226547/index.m3u8","https://cdn6.163189.xyz/live/fhhk/stream.m3u8"]},
 {"name": "凤凰资讯",
-urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226546/index.m3u8","http://php.jdshipin.com/TVOD/iptv.php?id=fhzx"]},
+urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226546/index.m3u8","https://cdn6.163189.xyz/live/fhzx/stream.m3u8","http://php.jdshipin.com/TVOD/iptv.php?id=fhzx"]},
 
 {"name": "CCTV怀旧剧场",
 urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226972/index.m3u8","http://111.20.33.70/PLTV/88888893/224/3221226972/index.m3u8"]},
@@ -77,8 +77,8 @@ urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226211/index.m3u8","http://11
 
 
 { "key": "荐片", "name": "🇲 🇹-1线🅰️", "type": 3, "searchable": 1,  "quickSearch": 1,  "changeable": 1, "playerType": "1",
- "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
- "ext": "https://pastebin.com/raw/Kd4DkLA3"  },
+  "api": "https://ghproxy.net/https://raw.githubusercontent.com/MT988/A/main/jpapi.js",  
+ "ext": "https://ghproxy.net/https://raw.githubusercontent.com/MT988/A/main/jpext.js"  },
 
 
 { "key": "荐", "name": "🇲 🇹-2线🅰️", "type": 3, "searchable": 1,  "quickSearch": 1,  "changeable": 1, "playerType": "1", 
