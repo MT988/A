@@ -110,7 +110,10 @@ urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226211/index.m3u8","http://11
  "jar": "https://jihulab.com/duomv/xduo/-/raw/main/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C","api": "csp_XYQHiker",
  "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/电影港.json" },
 
-{  "key": "新6V", "name": "🧲新6V(不支持搜索)",  "type":3,"api":"csp_SixVGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":0,"ext": "https://www.xb6v.com/"}
+{  "key": "新6V", "name": "🧲新6V(不支持搜索)",  "type":3,"api":"csp_SixVGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":0,"ext": "https://www.xb6v.com/"},
+
+//https://gitee.com/qq3650/dj/raw/master/box
+ {"key":"黑墙资源","name":"🎬黑墙(有广，多线)","type":0,"api":"https://blackwallvideo.online/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"categories":["电影","动作片","喜剧片","爱情片","科幻片","奇幻片","剧情片","战争记录","犯罪悬疑","恐怖惊悚","冒险灾难","动画电影","邵氏武侠","其他电影","电视剧","国产剧","港台剧","欧美剧","日韩剧","其他剧","动漫","大陆动漫","日本动漫","港台动漫","欧美动漫","海外动漫","沙雕动漫","其他动漫","短剧","反转爽文","女频短剧","穿越短剧","古装短剧","悬疑短剧","合集短剧","其他短剧","综艺","大陆综艺","港台综艺","欧美综艺","日韩综艺","其他综艺"]}
 
 
  
