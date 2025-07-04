@@ -75,7 +75,7 @@ urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226211/index.m3u8","http://11
 
 
 
-{ "key": "荐片", "name": "🇲 🇹-1线🅰️", "type": 3, "searchable": 1,  "quickSearch": 1,  "changeable": 1, "playerType": "1",
+{ "key": "荐片", "name": "🇲 🇹-1线🅰️(1线修复中，先使用MT2线)",  "type": 3, "searchable": 1,  "quickSearch": 1,  "changeable": 1, "playerType": "1",
   "api": "https://ghproxy.net/https://raw.githubusercontent.com/MT988/A/main/jpapi.js",  
  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/MT988/A/main/jpext.js"  },
 
