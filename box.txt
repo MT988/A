@@ -46,9 +46,9 @@ urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226198/index.m3u8","http://11
 urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226221/index.m3u8","http://111.20.33.70/PLTV/88888893/224/3221226221/index.m3u8"]},
 
 {"name": "凤凰中文",
-urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226547/index.m3u8","https://cdn8.163189.xyz/live/fhhk/stream.m3u8"]},
+urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226547/index.m3u8","http://111.20.33.70/PLTV/88888893/224/3221226547/index.m3u8"]},
 {"name": "凤凰资讯",
-urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226546/index.m3u8","https://cdn8.163189.xyz/live/fhzx/stream.m3u8"]},
+urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226546/index.m3u8","http://111.20.33.70/PLTV/88888893/224/3221226546/index.m3u8"]},
 
 {"name": "CCTV怀旧剧场",
 urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226972/index.m3u8","http://111.20.33.70/PLTV/88888893/224/3221226972/index.m3u8"]},
@@ -77,15 +77,21 @@ urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226211/index.m3u8","http://11
 
 
 
-{ "key": "荐片", "name": "🇲 🇹-1线🅰️(1线修复中，先使用MT2线)", "type": 3, "searchable": 1,  "quickSearch": 1,  "changeable": 1, "playerType": "1",
- "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
- "ext": "https://pastebin.com/raw/Kd4DkLA3"  },
+
+{ "key": "荐1片", "name": "🇲 🇹- 1️⃣线🅰️", "type": 3, "searchable": 1,  "quickSearch": 1,  "changeable": 1, "playerType": "1",
+  "api": "csp_Jianpian","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1752147136736/PandaQ0710.jpg"},
+
+//{ "key": "荐片", "name": "🇲 🇹-1线🅰️(1线修复中，先使用MT2线)", "type": 3, "searchable": 1,  "quickSearch": 1,  "changeable": 1, "playerType": "1",
+// "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
+//"ext": "https://pastebin.com/raw/Kd4DkLA3"  },
 
 
 { "key": "荐", "name": "🇲 🇹-2线🅰️", "type": 3, "searchable": 1,  "quickSearch": 1,  "changeable": 1, "playerType": "1",
   "api":"csp_JPJGuard"  },
 
 
+ {"key":"暴風","name":"🌈暴風🅰️","type":1,"api":"http://bf.xoxowin86cisyap.com/api.php/provide/vod","searchable":1,"changeable":1},
+ //{"key":"暴2風","name":"🌈暴風🅰️","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},
 
 
 
@@ -94,11 +100,9 @@ urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226211/index.m3u8","http://11
  
 { "key": "豆豆", "name": "豆瓣推荐","type": 3, "api": "csp_DouDouGuard","indexs":1,"searchable": 0,"quickSearch": 0,"changeable":0},
 
-
 //https://gitee.com/senno/tvbox/raw/master/api.json（原始地址：https://gitee.com/senno/tvbox/blob/master/jar/饭太硬.jar）
-{"key": "huomaoys","name": "🐈︎火猫","type": 3,"api": "csp_Muou","playerType": 2,
-"jar": "https://gitee.com/senno/tvbox/raw/master/jar/巧技.jar",
-"ext": "7lj763gg0939790i413gi484k8058896highi4414h68l7g6hk8qiaojig9k2k289l9ik807i213k5j602"},
+{"key":"New6v","name":"🧲新6V","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,
+"jar": "https://gitee.com/senno/tvbox/raw/master/jar/欧歌.jar","ext":"https://www.xb6v.com"},
 
   { "key": "白白", "name": "🐇白白", "type": 3, "api": "csp_SbaibaiGuard", "timeout": 10,
       "playerType": 1, "searchable": 1,  "quickSearch": 1, "changeable": 1 },
@@ -111,7 +115,7 @@ urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226211/index.m3u8","http://11
  {"key": "苹果", "name": "🍎小苹果","type":3,"api":"csp_LiteAppleGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1}, 
  
 
- {"key":"暴風","name":"🌈暴風🅰️","type":1,"api":"http://bf.xoxowin86cisyap.com/api.php/provide/vod","searchable":1,"changeable":1},
+
 
 
  { "key": "量子资源", "name": "🌩量子", "type": 1, "api": "https://cj.lziapi.com/api.php/provide/vod/",
@@ -125,17 +129,17 @@ urls: [ "http://111.20.33.70/PLTV/88888893/224/3221226211/index.m3u8","http://11
  "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/电影港.json" },
 
 
-//https://gitee.com/senno/tvbox/raw/master/api.json（原始地址：https://gitee.com/senno/tvbox/blob/master/jar/饭太硬.jar）
-{"key":"New6v","name":"🧲新6V","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,
-"jar": "https://gitee.com/senno/tvbox/raw/master/jar/欧歌.jar","ext":"https://www.xb6v.com"},
+
+
+//https://gitee.com/liu4331126/liu4331126/raw/master/111.json
+{"key":"csp_DyGod","name":"🧲天堂","type":3,"api":"csp_DyGod","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://jihulab.com/yoursmile66/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8"},
+//https://gitee.com/liu4331126/liu4331126/raw/master/111.json
+{"key":"csp_BLSGod","name":"🧲80S影视","type":3,"api":"csp_BLSGod","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://jihulab.com/yoursmile66/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8"},
+
 
 //https://gitee.com/senno/tvbox/raw/master/api.json（原始地址：https://gitee.com/senno/tvbox/blob/master/jar/饭太硬.jar）
-{"key":"1905","name":"📽︎1905┃老电影","type":3,"api":"csp_Web1905","searchable":1,"quickSearch":0,
+{"key":"1905","name":"📽︎1905┃老电影","type":3,"api":"csp_Web1905","searchable":0,"quickSearch":0,
 "jar": "https://gitee.com/senno/tvbox/raw/master/jar/欧歌.jar","filterable":0 },
-
-//https://gitee.com/senno/tvbox/raw/master/api.json（原始地址：https://gitee.com/senno/tvbox/blob/master/jar/饭太硬.jar）
-{"key": "yizys","name": "🚎驿站（多线）","type": 3,"api": "csp_Muou","playerType": 2,"jar": "https://gitee.com/senno/tvbox/raw/master/jar/巧技.jar",
-"ext":"7lj763gg402i7942403h83i2h945858hljhji148i18k2837535112l2qiaojik9075l17028i49g192419i8g3245h3j1l9gi02h6k7732650h3h09jkg759j65hj39l50347k3gj97l4g12l7h6418h6k9j04l26i1glgj3631973hh280lkihjh "},
 
 
 //https://gitee.com/qq3650/dj/raw/master/box
