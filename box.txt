@@ -3,12 +3,13 @@
 "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1751359904682/f0701.jpg;md5;8432d174d72d5b608ae1bcd16d966847",
 
  "warningText": "友情提示：广告都是骗子，爱护家人，谨防受骗！！！",
- 
+
+
 "lives":[
  
-{"group": "CCTV","channels": [
+{"group": "CCTV","channels": [ 
 {"name": "CCTV1",
-urls: [ "http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226635/1.m3u8","http://171.213.237.24:5555/udp/239.93.0.184:5140","http://live.sxrtv.com/iptv/cctv1.m3u8","http://111.20.33.83/PLTV/88888893/224/3221227140/index.m3u8"]},
+urls: [ "http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226635/1.m3u8","http://222.90.22.2:9999/rtp/239.112.205.59:5140","http://120.196.232.124:8088/PLTV/651/224/3221227607/1.m3u8","http://111.20.33.83/PLTV/88888893/224/3221227140/index.m3u8"]},
 {"name": "CCTV2",
 urls: [ "http://111.20.33.83/PLTV/88888893/224/3221226195/index.m3u8", "http://111.20.33.83/PLTV/88888893/224/3221226195/index.m3u8"]},
 {"name": "CCTV3",
@@ -46,9 +47,9 @@ urls: [ "http://111.20.33.83/PLTV/88888893/224/3221226198/index.m3u8","http://11
 urls: [ "http://111.20.33.83/PLTV/88888893/224/3221227110/index.m3u8","http://111.20.33.83/PLTV/88888893/224/3221227110/index.m3u8"]},
 
 {"name": "凤凰中文",
-urls: [ "http://111.20.33.83/PLTV/88888893/224/3221226547/index.m3u8","http://171.213.237.24:5555/udp/239.93.0.162:2192","http://live.sxrtv.com/iptv/fhzw.m3u8"]},
+urls: [ "http://111.20.33.83/PLTV/88888893/224/3221226547/index.m3u8","http://live.sxrtv.com/iptv/fhzw.m3u8","http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8","http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv"]},
 {"name": "凤凰资讯",
-urls: [ "http://111.20.33.83/PLTV/88888893/224/3221226546/index.m3u8","http://live.sxrtv.com/iptv/fhzx.m3u8","http://171.213.237.24:5555/udp/239.93.0.118:2191"]},
+urls: [ "http://111.20.33.83/PLTV/88888893/224/3221226546/index.m3u8","http://live.sxrtv.com/iptv/fhzx.m3u8","http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8","http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzx.flv"]},
 
 {"name": "CCTV怀旧剧场",
 urls: [ "http://111.20.33.83/PLTV/88888893/224/3221226972/index.m3u8","http://111.20.33.83/PLTV/88888893/224/3221226972/index.m3u8"]},
@@ -58,19 +59,34 @@ urls: [ "http://111.20.33.83/PLTV/88888893/224/3221226465/index.m3u8","http://11
 urls: [ "http://111.20.33.83/PLTV/88888893/224/3221226462/index.m3u8","http://111.20.33.83/PLTV/88888893/224/3221226462/index.m3u8"]},
 {"name": "CHC影迷电影",
 urls: [ "http://111.20.33.83/PLTV/88888893/224/3221226463/index.m3u8","http://111.20.33.83/PLTV/88888893/224/3221226463/index.m3u8"]},
-{"name": "北京卫视4K",
+{"name": "CCTV4K",
+urls: [ "http://111.20.33.83/PLTV/88888893/224/3221227140/index.m3u8","http://111.20.33.83/PLTV/88888893/224/3221227140/index.m3u8"]},
+{"name": "北京卫视",
 urls: [ "http://111.20.33.83/PLTV/88888893/224/3221227112/index.m3u8","http://111.20.33.83/PLTV/88888893/224/3221227112/index.m3u8"]}
 
 
 
   ] },
-   ],
+    ],
  
  
  
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
 "sites":[
 
 
+
+ 
 
 
 
@@ -103,7 +119,7 @@ urls: [ "http://111.20.33.83/PLTV/88888893/224/3221227112/index.m3u8","http://11
 "jar": "https://gitee.com/senno/tvbox/raw/master/jar/欧歌.jar","ext":"https://www.xb6v.com"},
 
 
-
+{ "key": "天天","name": "🍄天天", "type": 3,"api": "csp_TTian","jar":"http://cdn.qiaoji8.com/fix250410.jar","playerType": 1,"ext": "7lj763gg09397919456493i0h44j8681highi4"    }, 
  
 
   { "key": "白白", "name": "🐇白白", "type": 3, "api": "csp_SbaibaiGuard", "timeout": 10,
