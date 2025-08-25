@@ -93,11 +93,8 @@ urls: [ "http://111.20.33.83/PLTV/88888893/224/3221227112/index.m3u8","http://11
 
 
 
-
 //https://xn--nuun-rp5imh.v.nxog.top/api2.php?id=2欧歌
-{ "key": "荐1片", "name": "🇲 🇹- 1️⃣线🅰️", "type": 3, "searchable": 1,  "quickSearch": 1,  "changeable": 1, "playerType": "1",
-  "api": "csp_Jianpian","jar":"https://alicliimg.clewm.net/342/790/68790342/1755399436259e4e0f5b7e742b4961f4a35460f10a5341755399434.jpg"},
-
+{ "key": "荐1片", "name": "🇲 🇹- 1️⃣线🅰️","type":3,"api":"csp_JPJGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":0},
 
 
 { "key": "荐", "name": "🇲 🇹-2线🅰️", "type": 3, "searchable": 1,  "quickSearch": 1,  "changeable": 1, "playerType": "1",
