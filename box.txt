@@ -49,11 +49,9 @@ urls: [ "http://111.20.33.83/PLTV/88888893/224/3221226198/index.m3u8","http://11
 urls: [ "http://111.20.33.83/PLTV/88888893/224/3221227110/index.m3u8","http://111.20.33.83/PLTV/88888893/224/3221227110/index.m3u8"]},
 
 {"name": "凤凰中文",
-urls: [ "http://111.20.33.83/PLTV/88888893/224/3221226547/index.m3u8","http://xg.52sw.top/play/fh.php?id=fhzw",
-"http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8","http://111.20.33.83/PLTV/88888893/224/3221226547/index.m3u8"]},
+urls: [ "http://111.20.33.83/PLTV/88888893/224/3221226547/index.m3u8","http://111.20.33.83/PLTV/88888893/224/3221226547/index.m3u8"]},
 {"name": "凤凰资讯",
-urls: [ "http://111.20.33.83/PLTV/88888893/224/3221226546/index.m3u8","http://xg.52sw.top/play/fh.php?id=fhzx",
-"http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8","http://111.20.33.83/PLTV/88888893/224/3221226546/index.m3u8"]},
+urls: [ "http://111.20.33.83/PLTV/88888893/224/3221226546/index.m3u8","http://111.20.33.83/PLTV/88888893/224/3221226546/index.m3u8"]},
 
 {"name": "CCTV怀旧剧场",
 urls: [ "http://111.20.33.83/PLTV/88888893/224/3221226972/index.m3u8","http://111.20.33.83/PLTV/88888893/224/3221226972/index.m3u8"]},
@@ -94,7 +92,7 @@ urls: [ "http://111.20.33.83/PLTV/88888893/224/3221227112/index.m3u8","http://11
 
 
 //https://xn--nuun-rp5imh.v.nxog.top/api2.php?id=2欧歌
-{ "key": "荐1片", "name": "🇲 🇹- 1️⃣线🅰️","type":3,"api":"csp_JPJGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":0},
+{ "key": "荐1片", "name": "🇲 🇹- 1️⃣线🅰️","type":3,"api":"csp_JPJGuard","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":0},
 
 
 { "key": "荐", "name": "🇲 🇹-2线🅰️", "type": 3, "searchable": 1,  "quickSearch": 1,  "changeable": 1, "playerType": "1",
@@ -116,14 +114,6 @@ urls: [ "http://111.20.33.83/PLTV/88888893/224/3221227112/index.m3u8","http://11
 "jar": "https://gitee.com/senno/tvbox/raw/master/jar/欧歌.jar","ext":"https://www.xb6v.com"},
 
 
-{ "key": "天天","name": "🍄天天", "type": 3,"api": "csp_TTian","jar":"http://cdn.qiaoji8.com/fix250410.jar","playerType": 1,"ext": "7lj763gg09397919456493i0h44j8681highi4"    }, 
- 
-
-  { "key": "白白", "name": "🐇白白", "type": 3, "api": "csp_SbaibaiGuard", "timeout": 10,
-      "playerType": 1, "searchable": 1,  "quickSearch": 1, "changeable": 1 },
-
-
-
  {"key":"文采","name":"💮文采","type":3,"api":"csp_JpysGuard","timeout":10,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1}, 
 
  
@@ -143,11 +133,6 @@ urls: [ "http://111.20.33.83/PLTV/88888893/224/3221227112/index.m3u8","http://11
  "jar": "https://jihulab.com/duomv/xduo/-/raw/main/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C","api": "csp_XYQHiker",
  "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/电影港.json" },
 
-//https://gitee.com/wuming2088/wm/blob/master/wuming
-{"key":"csp_XBPQ_奇优影院","name":"🧢奇优影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://pastebin.com/raw/6x3auFEm","jar":"https://jihulab.com/xiaohutx/meisha/-/raw/main/1.jar"},
-
-
 //https://gitee.com/liu4331126/liu4331126/raw/master/111.json
 {"key":"csp_DyGod","name":"🧲天堂","type":3,"api":"csp_DyGod","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://jihulab.com/yoursmile66/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8"},
 //https://gitee.com/liu4331126/liu4331126/raw/master/111.json
@@ -156,11 +141,10 @@ urls: [ "http://111.20.33.83/PLTV/88888893/224/3221227112/index.m3u8","http://11
 
 //https://gitee.com/senno/tvbox/raw/master/api.json（原始地址：https://gitee.com/senno/tvbox/blob/master/jar/饭太硬.jar）
 {"key":"1905","name":"📽︎1905┃老电影","type":3,"api":"csp_Web1905","searchable":0,"quickSearch":0,
-"jar": "https://gitee.com/senno/tvbox/raw/master/jar/欧歌.jar","filterable":0 },
+"jar": "https://gitee.com/senno/tvbox/raw/master/jar/欧歌.jar","filterable":0 }
 
 
-//https://gitee.com/qq3650/dj/raw/master/box
- {"key":"黑墙资源","name":"🎬黑墙(有广，多线)","type":0,"api":"https://blackwallvideo.online/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"categories":["电影","动作片","喜剧片","爱情片","科幻片","奇幻片","剧情片","战争记录","犯罪悬疑","恐怖惊悚","冒险灾难","动画电影","邵氏武侠","其他电影","电视剧","国产剧","港台剧","欧美剧","日韩剧","其他剧","动漫","大陆动漫","日本动漫","港台动漫","欧美动漫","海外动漫","沙雕动漫","其他动漫","短剧","反转爽文","女频短剧","穿越短剧","古装短剧","悬疑短剧","合集短剧","其他短剧","综艺","大陆综艺","港台综艺","欧美综艺","日韩综艺","其他综艺"]}
+
  
 ],
  
