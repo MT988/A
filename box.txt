@@ -1,14 +1,96 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途。自我学习用，严禁它用！]
-{"spider": "https://oss4liview.moji.com/thd_file/2025/11/08/256841fbdd6dd9c5a411dcc9564e0e75.jpg;md5;56f518af99e91de33cd88eafc9b85c2d",
-
+{     
+"spider": "https://oss4liview.moji.com/thd_file/2025/11/08/256841fbdd6dd9c5a411dcc9564e0e75.jpg;md5;56f518af99e91de33cd88eafc9b85c2d",
 
 
  "warningText": "友情提示：广告都是骗子，爱护家人，谨防受骗！！！",
 
- "lives":[ {"name":"M","type":0,"url":"https://pastebin.com/raw/6x3auFEm","playerType":1,"epg":"http://diyp1234.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"} ],
+// "epg":"http://diyp1234.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"
 
-"sites":[
+"lives":[    
+ 
+{"group": "CCTV","channels": [ 
+{"name": "CCTV1",
+urls: [ "http://47.104.163.156:8123/miguHD.php?id=CCTV1","http://111.20.33.83/PLTV/88888893/224/3221226953/index.m3u8"]},
+{"name": "CCTV2",
+urls: [ "http://111.20.33.83/PLTV/88888893/224/3221226195/index.m3u8", "http://111.20.33.83/PLTV/88888893/224/3221226195/index.m3u8"]},
+{"name": "CCTV3",
+urls: [ "http://111.20.33.83/PLTV/88888893/224/3221226397/index.m3u8","http://111.20.33.83/PLTV/88888893/224/3221226397/index.m3u8"]},
+{"name": "CCTV4",
+urls: [ "http://111.20.33.83/PLTV/88888893/224/3221226191/index.m3u8","http://111.20.33.83/PLTV/88888893/224/3221226191/index.m3u8"]},
+{"name": "CCTV5",
+urls: [ "http://111.20.33.83/PLTV/88888893/224/3221226395/index.m3u8", "http://111.20.33.83/PLTV/88888893/224/3221226395/index.m3u8"]},
+{"name": "CCTV6",
+urls: [ "http://111.20.33.83/PLTV/88888893/224/3221226393/index.m3u8","http://111.20.33.83/PLTV/88888893/224/3221226393/index.m3u8"]},
+{"name": "CCTV7",
+urls: [ "http://111.20.33.83/PLTV/88888893/224/3221226192/index.m3u8", "http://111.20.33.83/PLTV/88888893/224/3221226192/index.m3u8"]},
+{"name": "CCTV8",
+urls: [ "http://111.20.33.83/PLTV/88888893/224/3221226391/index.m3u8","http://111.20.33.83/PLTV/88888893/224/3221226391/index.m3u8"]},
+{"name": "CCTV9",
+urls: [ "http://111.20.33.83/PLTV/88888893/224/3221226197/index.m3u8","http://111.20.33.83/PLTV/88888893/224/3221226197/index.m3u8"]},
+{"name": "CCTV10",
+urls: [ "http://111.20.33.83/PLTV/88888893/224/3221226189/index.m3u8","http://111.20.33.83/PLTV/88888893/224/3221226189/index.m3u8"]},
+{"name": "CCTV11",
+urls: [ "http://111.20.33.83/PLTV/88888893/224/3221226240/index.m3u8", "http://111.20.33.83/PLTV/88888893/224/3221226240/index.m3u8"]},
+{"name": "CCTV12",
+urls: [ "http://111.20.33.83/PLTV/88888893/224/3221226190/index.m3u8","http://111.20.33.83/PLTV/88888893/224/3221226190/index.m3u8"]},
+{"name": "CCTV13",
+urls: [ "http://111.20.33.83/PLTV/88888893/224/3221226233/index.m3u8","http://111.20.33.83/PLTV/88888893/224/3221226233/index.m3u8"]},
+{"name": "CCTV14",
+urls: [ "http://111.20.33.83/PLTV/88888893/224/3221226193/index.m3u8","http://111.20.33.83/PLTV/88888893/224/3221226193/index.m3u8"]},
+{"name": "CCTV15",
+urls: ["http://47.104.163.156:8123/miguHD.php?id=CCTV15","http://111.20.33.83/PLTV/88888893/224/3221226950/index.m3u8","http://111.20.33.83/PLTV/88888893/224/3221226950/index.m3u8"]},
 
+{"name": "CCTV16",
+urls: [ "http://111.20.33.83/PLTV/88888893/224/3221226921/index.m3u8","http://111.20.33.83/PLTV/88888893/224/3221226921/index.m3u8"]},
+{"name": "CCTV17",
+urls: [ "http://111.20.33.83/PLTV/88888893/224/3221226198/index.m3u8","http://111.20.33.83/PLTV/88888893/224/3221226198/index.m3u8"]},
+{"name": "CCTV5+",
+urls: [ "http://111.20.33.83/PLTV/88888893/224/3221227110/index.m3u8","http://111.20.33.83/PLTV/88888893/224/3221227110/index.m3u8"]},
+
+{"name": "凤凰中文",
+urls: [ "https://cdn6.101.qzz.io/163189/fhzw","http://222.212.84.190:54123/udp/239.93.1.9:2192","http://111.20.33.83/PLTV/88888893/224/3221226547/index.m3u8","http://111.20.33.83/PLTV/88888893/224/3221226547/index.m3u8"]},
+{"name": "凤凰资讯",
+urls: [ "https://cdn6.101.qzz.io/163189/fhzx","http://222.212.84.190:54123/udp/239.93.1.4:2191","http://111.20.33.83/PLTV/88888893/224/3221226546/index.m3u8","http://111.20.33.83/PLTV/88888893/224/3221226546/index.m3u8"]},
+
+
+{"name": "CHC动作电影",
+urls: [ "http://111.20.33.83/PLTV/88888893/224/3221226465/index.m3u8","http://111.20.33.83/PLTV/88888893/224/3221226465/index.m3u8"]},
+{"name": "CHC家庭影院",
+urls: [ "http://111.20.33.83/PLTV/88888893/224/3221226462/index.m3u8","http://111.20.33.83/PLTV/88888893/224/3221226462/index.m3u8","http://111.20.33.83/PLTV/88888893/224/3221226393/index.m3u8"]},
+{"name": "CHC影迷电影",
+urls: [ "http://111.20.33.83/PLTV/88888893/224/3221226463/index.m3u8","http://111.20.33.83/PLTV/88888893/224/3221226463/index.m3u8"]},
+
+
+
+
+{"name": "CCTV风云剧场",
+urls: [ "http://111.20.33.83/PLTV/88888893/224/3221226950/index.m3u8","http://111.20.33.83/PLTV/88888893/224/3221226950/index.m3u8"]},
+
+
+{"name": "CCTV第一剧场",
+urls: [ "http://111.20.33.83/PLTV/88888893/224/3221226959/index.m3u8","http://111.20.33.83/PLTV/88888893/224/3221226959/index.m3u8"]},
+
+{"name": "CCTV怀旧剧场",
+urls: [ "http://111.20.33.83/PLTV/88888893/224/3221226972/index.m3u8","http://111.20.33.83/PLTV/88888893/224/3221226972/index.m3u8"]},
+
+{"name": "CCTV4K",
+urls: [ "http://111.20.33.83/PLTV/88888893/224/3221227140/index.m3u8","http://111.20.33.83/PLTV/88888893/224/3221227140/index.m3u8"]},
+{"name": "北京卫视4K",
+urls: [ "http://111.20.33.83/PLTV/88888893/224/3221227112/index.m3u8","http://111.20.33.83/PLTV/88888893/224/3221227112/index.m3u8"]}
+
+
+
+  ]  },
+  ],
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 
 
