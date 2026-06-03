@@ -1,7 +1,7 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途。自我学习用，严禁它用！]
 
 {"spider":
- "https://oss4liview.moji.com/thd_file/2026/04/18/e05e0855ab09b267947e7ba3b7062c6b.jpg",
+ "https://file.icve.com.cn/file_doc/1001/140/FA6230E1A528C22F85A0827B9B99E574.jpg",
 
  "warningText": "友情提示：广告都是骗子，爱护家人，谨防受骗！！！",
 
