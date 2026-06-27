@@ -1,37 +1,34 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途。自我学习用，严禁它用！]
-
+ 
 {"spider":
- "https://file.icve.com.cn/file_doc/1001/140/FA6230E1A528C22F85A0827B9B99E574.jpg",
-
+ "https://zl.wpscdn.cn/2026/06/27/space_img/8411e04a-42c6-4c21-830e-acf48cf57a34.jpg",
+ 
  "warningText": "友情提示：广告都是骗子，爱护家人，谨防受骗！！！",
-
+ 
  "lives":[ {"name":"M","type":0,"url":"https://pastebin.com/raw/6x3auFEm","playerType":1,"epg":"http://diyp1234.112114.xyz/?ch={name}&date={date}","logo":"https://static.188766.xyz/logo/fanmingming/live/tv/{name}.png"} ],
-
+ 
 "sites":[
-
-
+ 
+ 
 { "key": "荐1片", "name": "🇲 🇹-   1️⃣  线🅰️","type":3,"api":"csp_JPJGuard","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":0},
-
+ 
 //南风jar借鉴南风荐片ext
 { "key": "荐", "name": "🇲 🇹-2（多线路）🅰️","playerType": "1","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://pastebin.com/raw/Kd4DkLA3",
-"jar":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/Yoursmile.jar"},
-
-
+"jar":"https://jihulab.com/yoursmile7/TVBox/-/raw/main/Yoursmile.jar"},
+ 
+ 
  //{"key":"暴風","name":"🌈暴風🅰️","type":1,"api":"http://bf.xoxowin86cisyap.com/api.php/provide/vod","searchable":1,"changeable":1},
 {"key":"暴風","name":"🌈暴風🅰️","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},
-
+ 
  //肥猫
 {"key":"潮流","name":"🏜潮流🅰️","type":3,"api":"csp_AppRJ","ext":"http://v.rbotv.cn","jar":"https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png"},
-
- //南风
-{"key":"追剧","name":"🏃‍‍➡️追剧🅰️","type":3,"api":"csp_AppV6Amns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"ext":"623f288565eb2ea7fcb9caa81e70fa9b13ee50aa4880a55d5d8cb9e1defc9c54eda93a4de1eda66340969f9e35716a29fe218cce47e0741f0d649e8e75b34c068f00fdc0efffbed58460c680b54fa745d0f2da98e78d858c638d67f5a8358212751d8530c466927a3845558c95862b3f5e460d628c1e49a6513f3bcd9d5ecfda0926eedffdd55ba66aaf982e642388a29a52cbf6d0a6cc7cf85b1d92cd3c72176e5d6b230429df2a8d3a76ac80462f161f25760bb27cb0a2bcf3a979934e1a589de921620a594226305f03c22f41f9fdca723ea3e63d8a54fdb96aab78816d0ff7e910ecae6f0868304dd5906d03c7facc920ffa88fc8cdc3127ee9717da1be094280cda2f611a30b88b49eaa6679044d5785684a5b55488f193d9e6d6fe9612757f064a61311af60cdc11f2e09593faec3b562a44480290fbc9b2779c76b1c5a9ab7f25940e8fb4244d9dd08d5e321e26cd72ecc68f546958dfdac117f2ad42c00334ba0579b92d9d89c011b214d7a5f9ba7074d30f897a770f3dd2382080aad1d2a7a7d61eb9edeb531d52fba68453bff8e070328933161db5e0097bf376e88c206b8c05592736f8c2e2805debb69b5a7e2d758b846b713727433c29d0e5135d7e8dd02f9015070ed6897f744272c111f5823e99b59bbb6a5ddbc86013ffd4dbf3f8f82099b342476616a4ce8ef44c0f3cbb2789e4fe7b783e9b1fb937008059dc810e29c976901abe40c42858aaa3a2f9e27f0be965784f0eacc177011f273d44061302490730d00ac356914e7af0b318db591cd97ef8eb023c3b4a4a397790f9005aa10ce8ec63becfe95fc3de0c3e45c5887ea39b4218652dabd5bf6370d762757d3ce97dd1db720ee327a97c2166352c93d5af231f0ebc2ab22678f294a110d3699ba62c2985b827b25dd27bc1fb8bf851330059567d07446a4a039133e54a2dfaa77f5120d8f2580469cb9b83a209bccecf87f4537817ccbe3d9bb4521f0d6be526b91e9ff1cadf205138706f8760be8fedb624de645ede264972d24a18ec482d7102ff3ca089271b5bca165737247485cd0ec82c2d15dc361cfaa6fa844105fa5e3b38c9233c0baa0561f96cd7b320f2a7ec9dccab8801d27feb56c9019dc710ba64b893a9783ebbc58e94d269aeb0513ce9e4ada9f0c2910d01bfab72aec068ac6709ef629e278d7d73d2ac79e62912f1e6e6f45bff39330cb883cae4b980f8bf0400aef22bf4ff3e103737aea007a3287b7288119eb73699a6dcd2797e7d9ccdd62ede638ec7c89f54324e30e5b99ebd2577b9ca63ce1ed1e4bdc353bce048bb8cd5ecd3ca67ec463318b7328fc0c838d08e2a850ac4e80060b26217ddca7144734a399581572cb40df90586416d3c81d546e80c74a6b61e3870d71b250b1c8b943bce93d83285f62d47d86907cc666c72d175fe83971069bb0ba8fce1b9efdf471a3795b8404c1c49d15d3f4d46c455fa65619f599effc7a7c49c7a7f8d772471815ad723a3fe2ee8d6ad31b4673d6a0b37a1bcd9913ffc86f47476fda0cea7059ffaa348ede98f6d812baeab3a3a19885ca12ccf72fd502a77987177553d595bef44edf37285959cab33bd235be4cf871370b711fc409144827be0b2a866db7e223f6506bb7e8c452106f58ab18e07010167b6604e0a5ab3946b3f542eca8ffd06877a7e747dbb4cf2c3a3c9022aecafe405efa1b846fbc7ce326ecf7f6ce36fba137f6755447c52e2ec8b2823520bb9bbe28cd0896f24d0cdad745f4ee2382132c9c3fb319d3611c9c54ce4511a213b08ce33757eb5d6e6d4ece36ac559e49edb12cdeba8b64d6aca32166d5cdc1048e70d8ee8d138b2c4239f9278c511a9ccd61d7e8d5824ba379822fe9928f2f0861b7eefeac059998d15aeb2509e4e9485834a50a7473df1cf9ebafaea526dcc8f94a37a6736523480bbd283b24f0cf2e685fa9b215b051b113841ff1b0b8a3d0bf06ddf13cb111962b0c531e5aab795eea49543fc183c94fe5690b1112515abf7fcd5c3305ca26e3b926c50749ec02529e8db99427b3baa5529ce3b159b2e92b6f6a3ac9349624ab0c6f2eac1dfb0465209d801a648947da974f1cc025bb2dececd0c5dd6d9909db654d0b34bbd","jar":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"},
-
-
+ 
+ 
 { "key": "豆豆", "name": "豆瓣推荐","type": 3, "api": "csp_DouDouGuard","indexs":1,"searchable": 0,"quickSearch": 0,"changeable":0},
-
+ 
  {"key":"文采","name":"💮文采🅰️","type":3,"api":"csp_JpysGuard","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1}, 
-
+ 
  {"key": "苹果", "name": "🍎小苹果","type":3,"api":"csp_LiteAppleGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1}, 
  
  { "key": "量子资源", "name": "🌩量子", "type": 1, "api": "https://cj.lziapi.com/api.php/provide/vod/",
@@ -39,11 +36,12 @@
       "categories": [ "动作片", "喜剧片", "科幻片",  "恐怖片",  "爱情片", "剧情片", "战争片", "记录片",
         "国产剧", "欧美剧","香港剧",  "韩国剧",  "台湾剧", "日本剧", "海外剧",  "泰国剧",  "国产动漫",
         "日韩动漫", "欧美动漫", "港台动漫", "海外动漫", "大陆综艺", "港台综艺",  "日韩综艺",  "欧美综艺" ] },
-
+ 
 //https://gitee.com/senno/tvbox/raw/master/api.json（原始地址：https://gitee.com/senno/tvbox/blob/master/jar/饭太硬.jar）
 {"key":"1905","name":"📽︎1905┃老电影","type":3,"api":"csp_Web1905","searchable":0,"quickSearch":0,
 "jar": "https://gitee.com/senno/tvbox/raw/master/jar/欧歌.jar","filterable":0 }
-
-
+ 
+ 
   ]  }
-
+ 
+ 
